@@ -51,6 +51,28 @@ const handelUpdate = async () => {
     }
 }
 
+const checkStrong = async (data) => {
+    const respones = await fetch("api/User/check",
+        {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(data)
+        });
+    const result = await respones.json()
+    if (result == 0) {
+        let color = document.getElementById("check")
+        color.style.setProperty("background-color", "red")
+    }
+    if (result == 1) {
+        let color = document.getElementById("check")
+        color.style.setProperty("background-color", "orange")
+    }
+    if (result >= 2) {
+        let color = document.getElementById("check")
+        color.style.setProperty("background-color", "green")
+    }
+    return result;
+}
 
 const BackToShopping = () => {
     window.location.replace("Products.html")
