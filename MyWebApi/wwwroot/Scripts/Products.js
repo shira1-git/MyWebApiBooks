@@ -22,7 +22,8 @@ const UploadAllProducts = async () => {
         const products = await respones.json()
         if (products) {
             console.log(products)
-            ShowProducts(products)
+            ShowProducts(products);
+            UpdateAmmountOfProducts(products.length);
         }
     }
     catch {
@@ -108,6 +109,10 @@ const addCheckboxEventListeners = () => {
     });
 };
 
+const UpdateAmmountOfProducts = (len) => {
+    
+    document.getElementById("counter").innerHTML = len;
+}
 const filterProducts = ()=> {
     byName = document.getElementById("nameSearch").value;
     min = document.getElementById("minPrice").value;
@@ -116,6 +121,7 @@ const filterProducts = ()=> {
         categoryString +=`&categoryIds=${categoriesCheckBox[i]}`;
     }
     UploadFiltered()
+    
 }
 
 const UploadFiltered = async () => {
@@ -131,6 +137,7 @@ const UploadFiltered = async () => {
             console.log(products)
             CleanTheScreen()
             ShowProducts(products)
+            UpdateAmmountOfProducts(products.length)
         }
     }
     catch {
