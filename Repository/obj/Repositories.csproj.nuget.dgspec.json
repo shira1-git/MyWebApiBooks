@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\Repository\\Repositories.csproj": {}
   },
   "projects": {
@@ -20,20 +21,52 @@
           "C:\\Users\\326238102\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+    "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\Repository\\Repositories.csproj": {}
+  },
+  "projects": {
+    "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\DTO\\DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\DTO\\DTO.csproj",
+        "projectName": "DTO",
+        "projectPath": "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\DTO\\DTO.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
+=======
+          "C:\\Program Files\\dotnet\\library-packs": {},
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\Models\\Entities.csproj": {
                 "projectPath": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\Models\\Entities.csproj"
+=======
+              "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\Models\\Entities.csproj": {
+                "projectPath": "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\Models\\Entities.csproj"
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
               }
             }
           }
@@ -42,6 +75,14 @@
           "warnAsError": [
             "NU1605"
           ]
+<<<<<<< HEAD
+=======
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
         }
       },
       "frameworks": {
@@ -63,6 +104,7 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
@@ -83,12 +125,40 @@
           "C:\\Users\\326238102\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\Models\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\Models\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\Models\\Entities.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
+=======
+          "C:\\Program Files\\dotnet\\library-packs": {},
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -101,6 +171,14 @@
           "warnAsError": [
             "NU1605"
           ]
+<<<<<<< HEAD
+=======
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
         }
       },
       "frameworks": {
@@ -122,6 +200,7 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
@@ -142,23 +221,59 @@
           "C:\\Users\\326238102\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\Repository\\Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\Repository\\Repositories.csproj",
+        "projectName": "Repositories",
+        "projectPath": "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\Repository\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
+=======
+          "C:\\Program Files\\dotnet\\library-packs": {},
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\DTO\\DTO.csproj": {
                 "projectPath": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\DTO\\DTO.csproj"
               },
               "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\Models\\Entities.csproj": {
                 "projectPath": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\Models\\Entities.csproj"
+=======
+              "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\DTO\\DTO.csproj": {
+                "projectPath": "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\DTO\\DTO.csproj"
+              },
+              "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\Models\\Entities.csproj": {
+                "projectPath": "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\Models\\Entities.csproj"
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
               }
             }
           }
@@ -167,6 +282,14 @@
           "warnAsError": [
             "NU1605"
           ]
+<<<<<<< HEAD
+=======
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
         }
       },
       "frameworks": {
@@ -200,7 +323,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
         }
       }
     }

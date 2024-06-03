@@ -25,19 +25,32 @@ namespace MyWebApi.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
+<<<<<<< HEAD
             return null;
             //return new string[] { "value1", "value2" };
         }
 
         [HttpPost]
         public async Task<ActionResult<Order>> Post([FromBody] OrderDTO order)
+=======
+            return new string[] { "value1", "value2" };
+        }
+
+        [HttpPost]
+        public async Task<ActionResult<Order>> Post(  OrderDTO order)
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
         {
             var orderDto = mapper.Map<OrderDTO, Order>(order);
 
             Order o = await orderService.Post(orderDto);
+<<<<<<< HEAD
             //var oo = mapper.Map<Order, OrderAfterDTO >(o);
             if (o != null)
                 return CreatedAtAction(nameof(Get), new { id = o.OrderId });
+=======
+            if (o != null)
+                return CreatedAtAction(nameof(Get), new { id = o.OrderId }, o);
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
             return NoContent();
         }
 

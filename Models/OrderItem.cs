@@ -13,8 +13,14 @@ public partial class OrderItem
     public int? OrderId { get; set; }
 
     public int? Quentity { get; set; }
+<<<<<<< HEAD
     //[JsonIgnore]
     public virtual Order? Order { get; set; }
    // [JsonIgnore]
+=======
+    [JsonIgnore]
+    public virtual Order? Order { get; set; }
+    [JsonIgnore]
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
     public virtual Product? Product { get; set; }
 }

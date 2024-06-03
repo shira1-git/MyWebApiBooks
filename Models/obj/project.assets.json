@@ -8,12 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\326238102\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\Models\\Entities.csproj",
       "projectName": "Entities",
       "projectPath": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\Models\\Entities.csproj",
@@ -27,12 +34,33 @@
         "C:\\Users\\326238102\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+      "projectUniqueName": "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\Models\\Entities.csproj",
+      "projectName": "Entities",
+      "projectPath": "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\Models\\Entities.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\Models\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
+=======
+        "C:\\Program Files\\dotnet\\library-packs": {},
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,6 +73,14 @@
         "warnAsError": [
           "NU1605"
         ]
+<<<<<<< HEAD
+=======
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
       }
     },
     "frameworks": {
@@ -66,7 +102,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
       }
     }
   }

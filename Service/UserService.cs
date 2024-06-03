@@ -22,7 +22,11 @@ namespace Services
         }
         async Task<User> IUserService.Login(LoginDTO userLogin)
         {
+<<<<<<< HEAD
             User u = await userRepository.Login(userLogin);
+=======
+            User u= await userRepository.Login(userLogin);
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
             return u;
         }
         async Task<User> IUserService.Register(User user)

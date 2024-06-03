@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "sUshvj74eGAfxxoiNfBu1DA1SKI0L7udLUzCH6e7oSF3S8uMkq2U+AXvb3zXidMHL7dTOQ/5Dzp+b5Jj8kyhTA==",
   "success": true,
   "projectFilePath": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\Models\\Entities.csproj",
+=======
+  "dgSpecHash": "7h5nRIYZgysgJTE+aIZ1mBaIRnnAK2uxIA0IxL2jaxWXo6U6i97XFmNc15bFdtas2mpHSduzX5BRvGezeKfzww==",
+  "success": true,
+  "projectFilePath": "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\Models\\Entities.csproj",
+>>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
   "expectedPackageFiles": [],
   "logs": []
 }
