@@ -41,18 +41,11 @@ namespace MyWebApi.Controllers
 
 
         [HttpPost("register")]
-<<<<<<< HEAD
         public async Task<ActionResult<User>> Register([FromBody] RegisterDTO userDto)
         {
             var user = mapper.Map<RegisterDTO, User>(userDto);
 
             User u =await userService.Register(user);
-=======
-        public async Task<ActionResult<User>> Register([FromBody] User user)
-        {
-
-            User u=await userService.Register(user);
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
             if (u!=null)
                 return CreatedAtAction(nameof(Get), new { id = u.UserId }, u);
             //return Ok(u);

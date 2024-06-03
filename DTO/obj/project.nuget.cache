@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "tzI9pP69mfc17SURj0HwBC8MEpNjL+0yfqABYlqoeN9oZlzR5viElpagXrQ7ggwwD8nKGZ4BJ9OgssMuOzMHYQ==",
+  "dgSpecHash": "FF7zw6bZuW+/BftxRw0PxKnTqTBcLzkKapbpwQwBZRGW57dV56Iyb8EmfG0A4tWktuthWD0SVX4n1PZ3ToUoig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\DTO\\DTO.csproj",
-=======
-  "dgSpecHash": "jJ0iLHDQVCBdyipjY7+LKcTbGxb9EFEUb7r+Jaw/F+xeOkWTZ0RlSfQmgZf3BNWtxMUnvFO27QL7S5WO/gwMkw==",
-  "success": true,
-  "projectFilePath": "D:\\חומר לימודים\\webApi\\MyWebApiBooks\\DTO\\DTO.csproj",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+  "projectFilePath": "M:\\WepApi\\PROJECT\\MyWebApiTests\\DTO\\DTO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

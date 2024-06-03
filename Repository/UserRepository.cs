@@ -29,18 +29,14 @@ namespace Repositories
             {
                 return null;  
             }
-<<<<<<< HEAD
 
 
-=======
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
             await shopDbContext.Users.AddAsync(user);
             await shopDbContext.SaveChangesAsync();
             return user;
         }
         public async Task<User> Update(int id,User user)
         {
-<<<<<<< HEAD
             var userDb=await shopDbContext.Users.FirstOrDefaultAsync(u => user.UserId==id);
             if (userDb == null)
                 return null;
@@ -52,12 +48,6 @@ namespace Repositories
             userDb.Email = user.Email;
 
             //await shopDbContext.SaveChangesAsync();
-=======
-            var userDb=await shopDbContext.Users.FindAsync(id);
-            if (userDb == null)
-                return null;
-            shopDbContext.Entry(userDb).CurrentValues.SetValues(user);
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
             await shopDbContext.SaveChangesAsync();
             return user;
         }

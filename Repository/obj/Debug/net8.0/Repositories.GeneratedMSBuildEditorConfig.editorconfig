@@ -8,10 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Repositories
-<<<<<<< HEAD
-build_property.ProjectDir = C:\Users\326238102\Desktop\MyWebApiTests\Repository\
-=======
-build_property.ProjectDir = D:\חומר לימודים\webApi\MyWebApiBooks\Repository\
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+build_property.ProjectDir = M:\WepApi\PROJECT\MyWebApiTests\Repository\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

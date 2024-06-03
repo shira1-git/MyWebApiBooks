@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "Hash": "NseadFmp6qz+V0sY57Iw8MRJmA2Ow3APXMaxPc2iB20=",
-=======
-  "Hash": "AMYP3hJE5CD4moNyHI23hQ7g0bLjAPwwDc21bWMrt/w=",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
   "Source": "MyWebApi",
   "BasePath": "_content/MyWebApi",
   "Mode": "Default",
@@ -14,28 +10,17 @@
     {
       "Name": "MyWebApi\\wwwroot",
       "Source": "MyWebApi",
-<<<<<<< HEAD
       "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\",
-=======
-      "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
       "BasePath": "_content/MyWebApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-<<<<<<< HEAD
       "Identity": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\Home.html",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\",
-=======
-      "Identity": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\Home.html",
-      "SourceId": "MyWebApi",
-      "SourceType": "Discovered",
-      "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Home.html",
       "AssetKind": "All",
@@ -51,17 +36,10 @@
       "OriginalItemSpec": "wwwroot\\Home.html"
     },
     {
-<<<<<<< HEAD
       "Identity": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\BagActive.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\",
-=======
-      "Identity": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\Images\\BagActive.png",
-      "SourceId": "MyWebApi",
-      "SourceType": "Discovered",
-      "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/BagActive.png",
       "AssetKind": "All",
@@ -77,17 +55,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\BagActive.png"
     },
     {
-<<<<<<< HEAD
       "Identity": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\book1.jpg",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\",
-=======
-      "Identity": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\Images\\book1.jpg",
-      "SourceId": "MyWebApi",
-      "SourceType": "Discovered",
-      "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/book1.jpg",
       "AssetKind": "All",
@@ -103,17 +74,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\book1.jpg"
     },
     {
-<<<<<<< HEAD
       "Identity": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\book2.JPG",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\",
-=======
-      "Identity": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\Images\\book2.JPG",
-      "SourceId": "MyWebApi",
-      "SourceType": "Discovered",
-      "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/book2.JPG",
       "AssetKind": "All",
@@ -129,17 +93,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\book2.JPG"
     },
     {
-<<<<<<< HEAD
       "Identity": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\icn-remove.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\",
-=======
-      "Identity": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\Images\\icn-remove.png",
-      "SourceId": "MyWebApi",
-      "SourceType": "Discovered",
-      "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/icn-remove.png",
       "AssetKind": "All",
@@ -155,17 +112,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\icn-remove.png"
     },
     {
-<<<<<<< HEAD
       "Identity": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\searchIcon.svg",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\",
-=======
-      "Identity": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\Images\\searchIcon.svg",
-      "SourceId": "MyWebApi",
-      "SourceType": "Discovered",
-      "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/searchIcon.svg",
       "AssetKind": "All",
@@ -181,17 +131,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\searchIcon.svg"
     },
     {
-<<<<<<< HEAD
       "Identity": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\Products.html",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\",
-=======
-      "Identity": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\Products.html",
-      "SourceId": "MyWebApi",
-      "SourceType": "Discovered",
-      "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Products.html",
       "AssetKind": "All",
@@ -207,17 +150,10 @@
       "OriginalItemSpec": "wwwroot\\Products.html"
     },
     {
-<<<<<<< HEAD
       "Identity": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\README.md",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\",
-=======
-      "Identity": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\README.md",
-      "SourceId": "MyWebApi",
-      "SourceType": "Discovered",
-      "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
       "BasePath": "_content/MyWebApi",
       "RelativePath": "README.md",
       "AssetKind": "All",
@@ -233,17 +169,10 @@
       "OriginalItemSpec": "wwwroot\\README.md"
     },
     {
-<<<<<<< HEAD
       "Identity": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\Scripts\\Home.js",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\",
-=======
-      "Identity": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\Scripts\\Home.js",
-      "SourceId": "MyWebApi",
-      "SourceType": "Discovered",
-      "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Scripts/Home.js",
       "AssetKind": "All",
@@ -259,17 +188,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\Home.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\Scripts\\Products.js",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\",
-=======
-      "Identity": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\Scripts\\Products.js",
-      "SourceId": "MyWebApi",
-      "SourceType": "Discovered",
-      "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Scripts/Products.js",
       "AssetKind": "All",
@@ -285,17 +207,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\Products.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\Scripts\\ShippingBage.js",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\",
-=======
-      "Identity": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\Scripts\\ShippingBage.js",
-      "SourceId": "MyWebApi",
-      "SourceType": "Discovered",
-      "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Scripts/ShippingBage.js",
       "AssetKind": "All",
@@ -311,17 +226,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\ShippingBage.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\Scripts\\User.js",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\",
-=======
-      "Identity": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\Scripts\\User.js",
-      "SourceId": "MyWebApi",
-      "SourceType": "Discovered",
-      "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Scripts/User.js",
       "AssetKind": "All",
@@ -337,17 +245,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\User.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\ShoppingBag.html",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\",
-=======
-      "Identity": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\ShoppingBag.html",
-      "SourceId": "MyWebApi",
-      "SourceType": "Discovered",
-      "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
       "BasePath": "_content/MyWebApi",
       "RelativePath": "ShoppingBag.html",
       "AssetKind": "All",
@@ -363,7 +264,6 @@
       "OriginalItemSpec": "wwwroot\\ShoppingBag.html"
     },
     {
-<<<<<<< HEAD
       "Identity": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\Style\\Home.css",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
@@ -387,12 +287,6 @@
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\",
-=======
-      "Identity": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\Style\\Products.css",
-      "SourceId": "MyWebApi",
-      "SourceType": "Discovered",
-      "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Style/Products.css",
       "AssetKind": "All",
@@ -408,17 +302,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Products.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\Style\\ShoppingBag.css",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\",
-=======
-      "Identity": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\Style\\ShoppingBag.css",
-      "SourceId": "MyWebApi",
-      "SourceType": "Discovered",
-      "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Style/ShoppingBag.css",
       "AssetKind": "All",
@@ -434,7 +321,6 @@
       "OriginalItemSpec": "wwwroot\\Style\\ShoppingBag.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\Style\\User.css",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
@@ -458,12 +344,6 @@
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiTests\\MyWebApi\\wwwroot\\",
-=======
-      "Identity": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\User.html",
-      "SourceId": "MyWebApi",
-      "SourceType": "Discovered",
-      "ContentRoot": "M:\\WepApi\\PROJECT\\MyWebApiProducts\\MyWebApi\\wwwroot\\",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
       "BasePath": "_content/MyWebApi",
       "RelativePath": "User.html",
       "AssetKind": "All",

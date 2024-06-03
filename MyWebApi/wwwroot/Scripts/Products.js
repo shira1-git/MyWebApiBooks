@@ -113,10 +113,6 @@ const UpdateAmmountOfProducts = (len) => {
     
     document.getElementById("counter").innerHTML = len;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
 const filterProducts = ()=> {
     byName = document.getElementById("nameSearch").value;
     min = document.getElementById("minPrice").value;

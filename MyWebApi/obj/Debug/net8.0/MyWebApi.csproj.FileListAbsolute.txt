@@ -603,7 +603,6 @@ M:\WepApi\PROJECT\MyWebApiProducts\MyWebApi\bin\Debug\net8.0\NLog.Extensions.Log
 M:\WepApi\PROJECT\MyWebApiProducts\MyWebApi\bin\Debug\net8.0\NLog.MailKit.dll
 M:\WepApi\PROJECT\MyWebApiProducts\MyWebApi\bin\Debug\net8.0\NLog.Web.AspNetCore.dll
 M:\WepApi\PROJECT\MyWebApiProducts\MyWebApi\bin\Debug\net8.0\BouncyCastle.Crypto.dll
-<<<<<<< HEAD
 C:\Users\326238102\Desktop\MyWebApiProducts\MyWebApi\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\326238102\Desktop\MyWebApiProducts\MyWebApi\bin\Debug\net8.0\appsettings.json
 C:\Users\326238102\Desktop\MyWebApiProducts\MyWebApi\bin\Debug\net8.0\DTO.deps.json
@@ -922,5 +921,3 @@ M:\WepApi\PROJECT\MyWebApiTests\MyWebApi\obj\Debug\net8.0\refint\MyWebApi.dll
 M:\WepApi\PROJECT\MyWebApiTests\MyWebApi\obj\Debug\net8.0\MyWebApi.pdb
 M:\WepApi\PROJECT\MyWebApiTests\MyWebApi\obj\Debug\net8.0\MyWebApi.genruntimeconfig.cache
 M:\WepApi\PROJECT\MyWebApiTests\MyWebApi\obj\Debug\net8.0\ref\MyWebApi.dll
-=======
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35

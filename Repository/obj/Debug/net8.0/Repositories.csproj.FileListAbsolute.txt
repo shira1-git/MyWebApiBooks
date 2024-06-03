@@ -81,7 +81,6 @@ M:\WepApi\PROJECT\MyWebApiProducts\Repository\obj\Debug\net8.0\refint\Repositori
 M:\WepApi\PROJECT\MyWebApiProducts\Repository\obj\Debug\net8.0\Repositories.pdb
 M:\WepApi\PROJECT\MyWebApiProducts\Repository\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
 M:\WepApi\PROJECT\MyWebApiProducts\Repository\obj\Debug\net8.0\ref\Repositories.dll
-<<<<<<< HEAD
 C:\Users\326238102\Desktop\MyWebApiProducts\Repository\bin\Debug\net8.0\DTO.deps.json
 C:\Users\326238102\Desktop\MyWebApiProducts\Repository\bin\Debug\net8.0\DTO.runtimeconfig.json
 C:\Users\326238102\Desktop\MyWebApiProducts\Repository\bin\Debug\net8.0\DTO.exe
@@ -126,5 +125,3 @@ M:\WepApi\PROJECT\MyWebApiTests\Repository\obj\Debug\net8.0\refint\Repositories.
 M:\WepApi\PROJECT\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.pdb
 M:\WepApi\PROJECT\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
 M:\WepApi\PROJECT\MyWebApiTests\Repository\obj\Debug\net8.0\ref\Repositories.dll
-=======
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35

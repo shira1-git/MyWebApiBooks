@@ -64,10 +64,7 @@ const creatOrder = async() => {
         userId: JSON.parse(window.sessionStorage.getItem("userID")),
         orderItems: products
     }
-<<<<<<< HEAD
 
-=======
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
     console.log(data)
     const respones = await fetch("api/Order",
         {
@@ -84,13 +81,8 @@ const creatOrder = async() => {
             alert("not found")
         }
         else {
-<<<<<<< HEAD
             //console.log("bcbcbnv",result.id)
             alert("added to yuor account " + result.id)
-=======
-            alert("added to yuor account")
-            
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
         }
         return result
     }

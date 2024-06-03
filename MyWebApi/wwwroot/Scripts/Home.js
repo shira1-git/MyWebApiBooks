@@ -2,7 +2,6 @@ let thisUser = {}
 let id=0;
 
 const handelRegister = async (data) => {
-<<<<<<< HEAD
     console.log("ddddd" + data.Email)
     const checkValid = await validateEmail(data.email)
     console.log(checkValid)
@@ -14,8 +13,6 @@ const handelRegister = async (data) => {
 }
 
 const sendToRegister = async (data) => {
-=======
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
     const respones = await fetch("api/User/register",
         {
             method: 'POST',
@@ -61,10 +58,6 @@ const showReg = () => {
     document.getElementById("reg").style.display = "block"
 }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
 //const showUpdate = () => {
 //    document.getElementById("update").style.display = "block"
 //}
@@ -123,12 +116,9 @@ const showRegister = () => {
     document.getElementById("register").style.display = "block"
 }
 
-<<<<<<< HEAD
 function validateEmail(email) {
     const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     return emailPattern.test(email);
 }
 
-=======
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
 

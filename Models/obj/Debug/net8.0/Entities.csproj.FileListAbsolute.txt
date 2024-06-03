@@ -42,7 +42,6 @@ M:\WepApi\PROJECT\MyWebApiProducts\Models\obj\Debug\net8.0\Entities.dll
 M:\WepApi\PROJECT\MyWebApiProducts\Models\obj\Debug\net8.0\refint\Entities.dll
 M:\WepApi\PROJECT\MyWebApiProducts\Models\obj\Debug\net8.0\Entities.pdb
 M:\WepApi\PROJECT\MyWebApiProducts\Models\obj\Debug\net8.0\ref\Entities.dll
-<<<<<<< HEAD
 C:\Users\326238102\Desktop\MyWebApiProducts\Models\bin\Debug\net8.0\Entities.deps.json
 C:\Users\326238102\Desktop\MyWebApiProducts\Models\bin\Debug\net8.0\Entities.dll
 C:\Users\326238102\Desktop\MyWebApiProducts\Models\bin\Debug\net8.0\Entities.pdb
@@ -65,5 +64,3 @@ M:\WepApi\PROJECT\MyWebApiTests\Models\obj\Debug\net8.0\Entities.dll
 M:\WepApi\PROJECT\MyWebApiTests\Models\obj\Debug\net8.0\refint\Entities.dll
 M:\WepApi\PROJECT\MyWebApiTests\Models\obj\Debug\net8.0\Entities.pdb
 M:\WepApi\PROJECT\MyWebApiTests\Models\obj\Debug\net8.0\ref\Entities.dll
-=======
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35

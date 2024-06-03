@@ -52,7 +52,6 @@ M:\WepApi\PROJECT\MyWebApiProducts\DTO\obj\Debug\net8.0\refint\DTO.dll
 M:\WepApi\PROJECT\MyWebApiProducts\DTO\obj\Debug\net8.0\DTO.pdb
 M:\WepApi\PROJECT\MyWebApiProducts\DTO\obj\Debug\net8.0\DTO.genruntimeconfig.cache
 M:\WepApi\PROJECT\MyWebApiProducts\DTO\obj\Debug\net8.0\ref\DTO.dll
-<<<<<<< HEAD
 C:\Users\326238102\Desktop\MyWebApiProducts\DTO\bin\Debug\net8.0\DTO.exe
 C:\Users\326238102\Desktop\MyWebApiProducts\DTO\bin\Debug\net8.0\DTO.deps.json
 C:\Users\326238102\Desktop\MyWebApiProducts\DTO\bin\Debug\net8.0\DTO.runtimeconfig.json
@@ -89,5 +88,3 @@ M:\WepApi\PROJECT\MyWebApiTests\DTO\obj\Debug\net8.0\refint\DTO.dll
 M:\WepApi\PROJECT\MyWebApiTests\DTO\obj\Debug\net8.0\DTO.pdb
 M:\WepApi\PROJECT\MyWebApiTests\DTO\obj\Debug\net8.0\DTO.genruntimeconfig.cache
 M:\WepApi\PROJECT\MyWebApiTests\DTO\obj\Debug\net8.0\ref\DTO.dll
-=======
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35

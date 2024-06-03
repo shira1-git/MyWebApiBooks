@@ -208,7 +208,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ShoppingBag.html))</OriginalItemSpec>
     </StaticWebAsset>
-<<<<<<< HEAD
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Style\Home.css))">
       <SourceType>Package</SourceType>
       <SourceId>MyWebApi</SourceId>
@@ -225,8 +224,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Style\Home.css))</OriginalItemSpec>
     </StaticWebAsset>
-=======
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Style\Products.css))">
       <SourceType>Package</SourceType>
       <SourceId>MyWebApi</SourceId>
@@ -259,7 +256,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Style\ShoppingBag.css))</OriginalItemSpec>
     </StaticWebAsset>
-<<<<<<< HEAD
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Style\User.css))">
       <SourceType>Package</SourceType>
       <SourceId>MyWebApi</SourceId>
@@ -276,8 +272,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Style\User.css))</OriginalItemSpec>
     </StaticWebAsset>
-=======
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\User.html))">
       <SourceType>Package</SourceType>
       <SourceId>MyWebApi</SourceId>
