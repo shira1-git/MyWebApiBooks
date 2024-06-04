@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FiPQ4QsV0Cnc171QbySgRWAOWwds4YBdA6uVzDnU1lM26PQypAfU2jLJdxW/+6gw03FZl1A4PX+VAk0sHhkjGA==",
+  "dgSpecHash": "3Uln7vYz5Ag+/tf+/XPCrwB3AYs/uZ9shxkC+TtQr/BoilsFtgAypoTuZuLi7PZpCCb86YeybvrwdeAbbfPPcw==",
   "success": true,
-  "projectFilePath": "M:\\WepApi\\PROJECT\\MyWebApiTests\\Models\\Entities.csproj",
+  "projectFilePath": "G:\\MyWebApiBooks\\Models\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

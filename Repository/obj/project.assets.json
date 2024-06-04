@@ -4146,11 +4146,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\WepApi\\PROJECT\\MyWebApiTests\\Repository\\Repositories.csproj",
+      "projectUniqueName": "G:\\MyWebApiBooks\\Repository\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "M:\\WepApi\\PROJECT\\MyWebApiTests\\Repository\\Repositories.csproj",
+      "projectPath": "G:\\MyWebApiBooks\\Repository\\Repositories.csproj",
       "packagesPath": "C:\\Users\\326238102\\.nuget\\packages\\",
-      "outputPath": "M:\\WepApi\\PROJECT\\MyWebApiTests\\Repository\\obj\\",
+      "outputPath": "G:\\MyWebApiBooks\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4171,11 +4171,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "M:\\WepApi\\PROJECT\\MyWebApiTests\\DTO\\DTO.csproj": {
-              "projectPath": "M:\\WepApi\\PROJECT\\MyWebApiTests\\DTO\\DTO.csproj"
+            "G:\\MyWebApiBooks\\DTO\\DTO.csproj": {
+              "projectPath": "G:\\MyWebApiBooks\\DTO\\DTO.csproj"
             },
-            "M:\\WepApi\\PROJECT\\MyWebApiTests\\Models\\Entities.csproj": {
-              "projectPath": "M:\\WepApi\\PROJECT\\MyWebApiTests\\Models\\Entities.csproj"
+            "G:\\MyWebApiBooks\\Models\\Entities.csproj": {
+              "projectPath": "G:\\MyWebApiBooks\\Models\\Entities.csproj"
             }
           }
         }

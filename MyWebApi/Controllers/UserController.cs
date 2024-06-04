@@ -5,9 +5,6 @@ using AutoMapper;
 using DTO;
 using Azure.Identity;
 
-
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-
 namespace MyWebApi.Controllers
 {
     [Route("api/[controller]")]
@@ -26,11 +23,11 @@ namespace MyWebApi.Controllers
         }
         
         [HttpPost("login")]
-        public async Task<ActionResult<UserAfterLoginDTO>> Login([FromBody] LoginDTO userLogin)
+        public async Task<ActionResult<UserWithIDDTO>> Login([FromBody] LoginDTO userLogin)
         {
             User u = await userService.Login(userLogin);
 
-            UserAfterLoginDTO userAfter = mapper.Map<User, UserAfterLoginDTO>(u);
+            UserWithIDDTO userAfter = mapper.Map<User, UserWithIDDTO>(u);
             if (userAfter != null)
             {
                 logger.LogInformation($"login attempted with UserName {userAfter.UserName}");
@@ -41,14 +38,17 @@ namespace MyWebApi.Controllers
 
 
         [HttpPost("register")]
-        public async Task<ActionResult<User>> Register([FromBody] RegisterDTO userDto)
+        public async Task<ActionResult<UserWithIDDTO>> Register([FromBody] RegisterDTO userDto)
         {
             var user = mapper.Map<RegisterDTO, User>(userDto);
 
             User u =await userService.Register(user);
-            if (u!=null)
-                return CreatedAtAction(nameof(Get), new { id = u.UserId }, u);
-            //return Ok(u);
+            if (u != null)
+            {
+                var userToReturn = mapper.Map<User, UserWithIDDTO>(u);
+                return CreatedAtAction(nameof(Get), new { id = userToReturn.UserId }, userToReturn);
+            }
+                
             return NoContent();
         }
 
@@ -63,21 +63,27 @@ namespace MyWebApi.Controllers
         }
 
         [HttpGet("{id}")]
-        public async Task<User> Get(int id)
+        public async Task<UserDTO> Get(int id)
         {
             var user = await userService.Get(id);
-            return user;
+            var userToReturn = mapper.Map<User, UserDTO>(user);
+            return userToReturn;
         }
 
         [HttpPut("{id}")]
-        public async Task<ActionResult<User>> Update(int id, [FromBody] User user)
+        public async Task<ActionResult<UserDTO>> Update(int id, [FromBody] UserDTO user)
         {
-            User u=await userService.Update(id,user);
-            if (u != null)
-                return Ok(u);
-            return NoContent();
-        }
+            UserDTO prevUser=await userService.returnPrev(id,user);
 
-   
+            User userAfter = mapper.Map<UserDTO, User>(prevUser);
+
+            User u =await userService.Update(id, userAfter);
+            if (u != null)
+            {
+                UserDTO uu = mapper.Map<User, UserDTO>(u);
+                return Ok(uu);
+            }     
+            return NoContent();
+        } 
     }
 }

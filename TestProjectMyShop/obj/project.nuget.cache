@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BIKtbxN6VxK0nzEp43yBFhuZZI+BTuZZwjLNWUn6tyj4JBzH/V34ljqR0iLUE70E2pkSCDrhmXNLYE5U1TceFg==",
+  "dgSpecHash": "XkhL2sYuR07suB3OB+v3vh4d7FMTRv9HA0rJQ6Gpzlajdlo8LxuZffozhAL6TK4zzz83RmILv8KMyc7VC7tfzg==",
   "success": true,
-  "projectFilePath": "M:\\WepApi\\PROJECT\\MyWebApiTests\\TestProjectMyShop\\TestProjectMyShop.csproj",
+  "projectFilePath": "G:\\MyWebApiBooks\\TestProjectMyShop\\TestProjectMyShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\326238102\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\326238102\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

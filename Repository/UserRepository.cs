@@ -30,24 +30,22 @@ namespace Repositories
                 return null;  
             }
 
-
             await shopDbContext.Users.AddAsync(user);
             await shopDbContext.SaveChangesAsync();
             return user;
         }
         public async Task<User> Update(int id,User user)
         {
-            var userDb=await shopDbContext.Users.FirstOrDefaultAsync(u => user.UserId==id);
+            var userDb=await shopDbContext.Users.FirstOrDefaultAsync(u => u.UserId==id);
             if (userDb == null)
                 return null;
-            //shopDbContext.Entry(userDb).CurrentValues.SetValues(user);
+           
             userDb.UserName = user.UserName;
             userDb.Password = user.Password;
             userDb.FirstName = user.FirstName;
             userDb.LastName = user.LastName;
             userDb.Email = user.Email;
 
-            //await shopDbContext.SaveChangesAsync();
             await shopDbContext.SaveChangesAsync();
             return user;
         }
@@ -57,5 +55,6 @@ namespace Repositories
             var user = await shopDbContext.Users.FindAsync(id);
             return user;
         }
+ 
     }
 }
