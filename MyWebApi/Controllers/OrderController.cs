@@ -1,10 +1,20 @@
+<<<<<<< HEAD
 ﻿/*using AutoMapper;
+=======
+﻿using AutoMapper;
+>>>>>>> 288bcff (add configuration)
 using DTO;
 using Entities;
 using Microsoft.AspNetCore.Mvc;
 using Services;
 using Zxcvbn;
 
+<<<<<<< HEAD
+=======
+
+// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+
+>>>>>>> 288bcff (add configuration)
 namespace MyWebApi.Controllers
 {
     [Route("api/[controller]")]
@@ -40,6 +50,7 @@ namespace MyWebApi.Controllers
 
     }
 }
+<<<<<<< HEAD
 */
 using AutoMapper;
 using DTO;
@@ -86,3 +97,5 @@ namespace MyWebApi.Controllers
         }
     }
 }
+=======
+>>>>>>> 288bcff (add configuration)

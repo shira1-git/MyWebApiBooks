@@ -5026,11 +5026,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "G:\\MyWebApiBooks\\MyWebApi\\MyWebApi.csproj",
       "projectName": "MyWebApi",
       "projectPath": "G:\\MyWebApiBooks\\MyWebApi\\MyWebApi.csproj",
       "packagesPath": "C:\\Users\\326238102\\.nuget\\packages\\",
       "outputPath": "G:\\MyWebApiBooks\\MyWebApi\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\326238102\\Desktop\\project\\MyWebApiTests\\MyWebApi\\MyWebApi.csproj",
+      "projectName": "MyWebApi",
+      "projectPath": "C:\\Users\\326238102\\Desktop\\project\\MyWebApiTests\\MyWebApi\\MyWebApi.csproj",
+      "packagesPath": "C:\\Users\\326238102\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\326238102\\Desktop\\project\\MyWebApiTests\\MyWebApi\\obj\\",
+>>>>>>> 288bcff (add configuration)
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5051,6 +5059,7 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+<<<<<<< HEAD
             "G:\\MyWebApiBooks\\DTO\\DTO.csproj": {
               "projectPath": "G:\\MyWebApiBooks\\DTO\\DTO.csproj"
             },
@@ -5059,6 +5068,16 @@
             },
             "G:\\MyWebApiBooks\\Service\\Services.csproj": {
               "projectPath": "G:\\MyWebApiBooks\\Service\\Services.csproj"
+=======
+            "C:\\Users\\326238102\\Desktop\\project\\MyWebApiTests\\DTO\\DTO.csproj": {
+              "projectPath": "C:\\Users\\326238102\\Desktop\\project\\MyWebApiTests\\DTO\\DTO.csproj"
+            },
+            "C:\\Users\\326238102\\Desktop\\project\\MyWebApiTests\\Models\\Entities.csproj": {
+              "projectPath": "C:\\Users\\326238102\\Desktop\\project\\MyWebApiTests\\Models\\Entities.csproj"
+            },
+            "C:\\Users\\326238102\\Desktop\\project\\MyWebApiTests\\Service\\Services.csproj": {
+              "projectPath": "C:\\Users\\326238102\\Desktop\\project\\MyWebApiTests\\Service\\Services.csproj"
+>>>>>>> 288bcff (add configuration)
             }
           }
         }

@@ -5,6 +5,12 @@ using AutoMapper;
 using DTO;
 using Azure.Identity;
 
+<<<<<<< HEAD
+=======
+
+// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+
+>>>>>>> 288bcff (add configuration)
 namespace MyWebApi.Controllers
 {
     [Route("api/[controller]")]
@@ -23,11 +29,19 @@ namespace MyWebApi.Controllers
         }
         
         [HttpPost("login")]
+<<<<<<< HEAD
         public async Task<ActionResult<UserWithIDDTO>> Login([FromBody] LoginDTO userLogin)
         {
             User u = await userService.Login(userLogin);
 
             UserWithIDDTO userAfter = mapper.Map<User, UserWithIDDTO>(u);
+=======
+        public async Task<ActionResult<UserAfterLoginDTO>> Login([FromBody] LoginDTO userLogin)
+        {
+            User u = await userService.Login(userLogin);
+
+            UserAfterLoginDTO userAfter = mapper.Map<User, UserAfterLoginDTO>(u);
+>>>>>>> 288bcff (add configuration)
             if (userAfter != null)
             {
                 logger.LogInformation($"login attempted with UserName {userAfter.UserName}");
@@ -38,17 +52,27 @@ namespace MyWebApi.Controllers
 
 
         [HttpPost("register")]
+<<<<<<< HEAD
         public async Task<ActionResult<UserWithIDDTO>> Register([FromBody] RegisterDTO userDto)
+=======
+        public async Task<ActionResult<User>> Register([FromBody] RegisterDTO userDto)
+>>>>>>> 288bcff (add configuration)
         {
             var user = mapper.Map<RegisterDTO, User>(userDto);
 
             User u =await userService.Register(user);
+<<<<<<< HEAD
             if (u != null)
             {
                 var userToReturn = mapper.Map<User, UserWithIDDTO>(u);
                 return CreatedAtAction(nameof(Get), new { id = userToReturn.UserId }, userToReturn);
             }
                 
+=======
+            if (u!=null)
+                return CreatedAtAction(nameof(Get), new { id = u.UserId }, u);
+            //return Ok(u);
+>>>>>>> 288bcff (add configuration)
             return NoContent();
         }
 
@@ -63,6 +87,7 @@ namespace MyWebApi.Controllers
         }
 
         [HttpGet("{id}")]
+<<<<<<< HEAD
         public async Task<UserDTO> Get(int id)
         {
             var user = await userService.Get(id);
@@ -85,5 +110,23 @@ namespace MyWebApi.Controllers
             }     
             return NoContent();
         } 
+=======
+        public async Task<User> Get(int id)
+        {
+            var user = await userService.Get(id);
+            return user;
+        }
+
+        [HttpPut("{id}")]
+        public async Task<ActionResult<User>> Update(int id, [FromBody] User user)
+        {
+            User u=await userService.Update(id,user);
+            if (u != null)
+                return Ok(u);
+            return NoContent();
+        }
+
+   
+>>>>>>> 288bcff (add configuration)
     }
 }

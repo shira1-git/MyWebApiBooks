@@ -322,6 +322,7 @@ C:\Users\326238102\Desktop\MyWebApiProducts\TestProjectMyShop\obj\Debug\net8.0\r
 C:\Users\326238102\Desktop\MyWebApiProducts\TestProjectMyShop\obj\Debug\net8.0\TestProjectMyShop.pdb
 C:\Users\326238102\Desktop\MyWebApiProducts\TestProjectMyShop\obj\Debug\net8.0\TestProjectMyShop.genruntimeconfig.cache
 C:\Users\326238102\Desktop\MyWebApiProducts\TestProjectMyShop\obj\Debug\net8.0\ref\TestProjectMyShop.dll
+<<<<<<< HEAD
 M:\WepApi\PROJECT\MyWebApiCleanTheCode\project\MyWebApiTests\TestProjectMyShop\bin\Debug\net8.0\CoverletSourceRootsMapping_TestProjectMyShop
 M:\WepApi\PROJECT\MyWebApiCleanTheCode\project\MyWebApiTests\TestProjectMyShop\bin\Debug\net8.0\testhost.exe
 M:\WepApi\PROJECT\MyWebApiCleanTheCode\project\MyWebApiTests\TestProjectMyShop\bin\Debug\net8.0\testhost.dll
@@ -648,3 +649,5 @@ C:\Users\326238102\Desktop\MyWebApiTests\TestProjectMyShop\obj\Debug\net8.0\refi
 C:\Users\326238102\Desktop\MyWebApiTests\TestProjectMyShop\obj\Debug\net8.0\TestProjectMyShop.pdb
 C:\Users\326238102\Desktop\MyWebApiTests\TestProjectMyShop\obj\Debug\net8.0\TestProjectMyShop.genruntimeconfig.cache
 C:\Users\326238102\Desktop\MyWebApiTests\TestProjectMyShop\obj\Debug\net8.0\ref\TestProjectMyShop.dll
+=======
+>>>>>>> 288bcff (add configuration)

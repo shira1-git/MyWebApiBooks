@@ -1080,6 +1080,7 @@ C:\Users\326238102\Desktop\project\MyWebApiTests\MyWebApi\obj\Debug\net8.0\refin
 C:\Users\326238102\Desktop\project\MyWebApiTests\MyWebApi\obj\Debug\net8.0\MyWebApi.pdb
 C:\Users\326238102\Desktop\project\MyWebApiTests\MyWebApi\obj\Debug\net8.0\MyWebApi.genruntimeconfig.cache
 C:\Users\326238102\Desktop\project\MyWebApiTests\MyWebApi\obj\Debug\net8.0\ref\MyWebApi.dll
+<<<<<<< HEAD
 C:\Users\326238102\Desktop\project\MyWebApiTests\MyWebApi\obj\Debug\net8.0\MyWebApi.sourcelink.json
 M:\WepApi\PROJECT\MyWebApiCleanTheCode\project\MyWebApiTests\MyWebApi\bin\Debug\net8.0\appsettings.Development.json
 M:\WepApi\PROJECT\MyWebApiCleanTheCode\project\MyWebApiTests\MyWebApi\bin\Debug\net8.0\appsettings.json
@@ -1561,3 +1562,5 @@ M:\WepApi\PROJECT\New folder\MyWebApiTests\MyWebApi\obj\Debug\net8.0\refint\MyWe
 M:\WepApi\PROJECT\New folder\MyWebApiTests\MyWebApi\obj\Debug\net8.0\MyWebApi.pdb
 M:\WepApi\PROJECT\New folder\MyWebApiTests\MyWebApi\obj\Debug\net8.0\MyWebApi.genruntimeconfig.cache
 M:\WepApi\PROJECT\New folder\MyWebApiTests\MyWebApi\obj\Debug\net8.0\ref\MyWebApi.dll
+=======
+>>>>>>> 288bcff (add configuration)

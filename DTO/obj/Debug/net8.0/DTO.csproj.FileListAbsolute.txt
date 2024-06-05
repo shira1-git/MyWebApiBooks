@@ -106,6 +106,7 @@ C:\Users\326238102\Desktop\project\MyWebApiTests\DTO\obj\Debug\net8.0\refint\DTO
 C:\Users\326238102\Desktop\project\MyWebApiTests\DTO\obj\Debug\net8.0\DTO.pdb
 C:\Users\326238102\Desktop\project\MyWebApiTests\DTO\obj\Debug\net8.0\DTO.genruntimeconfig.cache
 C:\Users\326238102\Desktop\project\MyWebApiTests\DTO\obj\Debug\net8.0\ref\DTO.dll
+<<<<<<< HEAD
 C:\Users\326238102\Desktop\project\MyWebApiTests\DTO\obj\Debug\net8.0\DTO.sourcelink.json
 M:\WepApi\PROJECT\MyWebApiCleanTheCode\project\MyWebApiTests\DTO\bin\Debug\net8.0\DTO.exe
 M:\WepApi\PROJECT\MyWebApiCleanTheCode\project\MyWebApiTests\DTO\bin\Debug\net8.0\DTO.deps.json
@@ -164,3 +165,5 @@ M:\WepApi\PROJECT\New folder\MyWebApiTests\DTO\obj\Debug\net8.0\refint\DTO.dll
 M:\WepApi\PROJECT\New folder\MyWebApiTests\DTO\obj\Debug\net8.0\DTO.pdb
 M:\WepApi\PROJECT\New folder\MyWebApiTests\DTO\obj\Debug\net8.0\DTO.genruntimeconfig.cache
 M:\WepApi\PROJECT\New folder\MyWebApiTests\DTO\obj\Debug\net8.0\ref\DTO.dll
+=======
+>>>>>>> 288bcff (add configuration)

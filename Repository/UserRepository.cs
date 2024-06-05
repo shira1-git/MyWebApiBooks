@@ -36,16 +36,27 @@ namespace Repositories
         }
         public async Task<User> Update(int id,User user)
         {
+<<<<<<< HEAD
             var userDb=await shopDbContext.Users.FirstOrDefaultAsync(u => u.UserId==id);
             if (userDb == null)
                 return null;
            
+=======
+            var userDb=await shopDbContext.Users.FirstOrDefaultAsync(u => user.UserId==id);
+            if (userDb == null)
+                return null;
+            //shopDbContext.Entry(userDb).CurrentValues.SetValues(user);
+>>>>>>> 288bcff (add configuration)
             userDb.UserName = user.UserName;
             userDb.Password = user.Password;
             userDb.FirstName = user.FirstName;
             userDb.LastName = user.LastName;
             userDb.Email = user.Email;
 
+<<<<<<< HEAD
+=======
+            //await shopDbContext.SaveChangesAsync();
+>>>>>>> 288bcff (add configuration)
             await shopDbContext.SaveChangesAsync();
             return user;
         }
@@ -55,6 +66,9 @@ namespace Repositories
             var user = await shopDbContext.Users.FindAsync(id);
             return user;
         }
+<<<<<<< HEAD
  
+=======
+>>>>>>> 288bcff (add configuration)
     }
 }
