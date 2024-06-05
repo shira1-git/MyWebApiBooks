@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "2rO70LxfLjhmrF1O5QvGjr6KllhoJqay2FzoBXJpAycd5MPGnApcSjP5jLbS9F/wfGdIKLMtY9u2YNze2Eu0Jg==",
   "success": true,
   "projectFilePath": "G:\\MyWebApiBooks\\Service\\Services.csproj",
+=======
+  "dgSpecHash": "ZXIvA+qWF+Ys7V0z+CQ2sPCWo1csr8/8wwy/jLrziXJBNF7wKScYBQ4xJNZHJcrD/wNKLZh/euOrymvJ4+FJng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\326238102\\Desktop\\project\\MyWebApiTests\\Service\\Services.csproj",
+>>>>>>> 288bcff (add configuration)
   "expectedPackageFiles": [
     "C:\\Users\\326238102\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\326238102\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

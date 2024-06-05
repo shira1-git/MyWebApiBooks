@@ -4,6 +4,10 @@ using System.Threading.Tasks;
 
 namespace PresidentsApp.Middlewares
 {
+<<<<<<< HEAD
+=======
+    // You may need to install the Microsoft.AspNetCore.Http.Abstractions package into your project
+>>>>>>> 288bcff (add configuration)
     public class ErrorHandlingMiddleware
     {
         private readonly RequestDelegate _next;

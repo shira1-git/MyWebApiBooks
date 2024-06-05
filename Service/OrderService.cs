@@ -26,13 +26,24 @@ namespace Services
 
         public async Task<Order> Post(Order order)
         {
+<<<<<<< HEAD
             double sum = await checkThief(order);
+=======
+            Product product;
+            double sum = 0;
+            foreach (var item in order.OrderItems)
+            {
+                product = await shopDbContext.Products.FirstOrDefaultAsync(p => p.ProductId == item.ProductId);
+                sum = (double)(sum +product.Price*item.Quentity);
+            }
+>>>>>>> 288bcff (add configuration)
             if (sum != order.OrderSum)
             {
                 logger.LogError($"trying to steal {order.UserId}");
                 return null;
             }
 
+<<<<<<< HEAD
             Order newOrder = await orderRepository.Post(order);
             return newOrder;
         }
@@ -51,5 +62,10 @@ namespace Services
             return sum;
         }
 
+=======
+            Order newOrder=await orderRepository.Post(order);
+            return newOrder;
+        }
+>>>>>>> 288bcff (add configuration)
     }
 }

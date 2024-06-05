@@ -147,6 +147,7 @@ C:\Users\326238102\Desktop\project\MyWebApiTests\Repository\obj\Debug\net8.0\ref
 C:\Users\326238102\Desktop\project\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.pdb
 C:\Users\326238102\Desktop\project\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
 C:\Users\326238102\Desktop\project\MyWebApiTests\Repository\obj\Debug\net8.0\ref\Repositories.dll
+<<<<<<< HEAD
 C:\Users\326238102\Desktop\project\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.sourcelink.json
 M:\WepApi\PROJECT\MyWebApiCleanTheCode\project\MyWebApiTests\Repository\bin\Debug\net8.0\DTO.deps.json
 M:\WepApi\PROJECT\MyWebApiCleanTheCode\project\MyWebApiTests\Repository\bin\Debug\net8.0\DTO.runtimeconfig.json
@@ -217,3 +218,5 @@ M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\obj\Debug\net8.0\refint\Re
 M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.pdb
 M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
 M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\obj\Debug\net8.0\ref\Repositories.dll
+=======
+>>>>>>> 288bcff (add configuration)

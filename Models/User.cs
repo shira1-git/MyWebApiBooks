@@ -15,7 +15,10 @@ public partial class User
 
     public string Password { get; set; } = null!;
 
+<<<<<<< HEAD
    
+=======
+>>>>>>> 288bcff (add configuration)
     public string? Email { get; set; }
 
     public virtual ICollection<Order> Orders { get; set; } = new List<Order>();

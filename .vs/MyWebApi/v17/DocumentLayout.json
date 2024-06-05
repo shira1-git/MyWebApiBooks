@@ -1,6 +1,9 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
   "WorkspaceRootPath": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\",
   "Documents": [
     {
@@ -182,6 +185,7 @@
     {
       "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\mywebapi\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+<<<<<<< HEAD
 =======
   "WorkspaceRootPath": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\",
   "Documents": [
@@ -358,6 +362,8 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\User.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
     }
   ],
   "DocumentGroupContainers": [
@@ -368,10 +374,14 @@
         {
           "DockedWidth": 200,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "SelectedChildIndex": 5,
 =======
           "SelectedChildIndex": 7,
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+          "SelectedChildIndex": 5,
+>>>>>>> 288bcff (add configuration)
           "Children": [
             {
               "$type": "Bookmark",
@@ -388,10 +398,14 @@
             {
               "$type": "Bookmark",
 <<<<<<< HEAD
+<<<<<<< HEAD
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
 =======
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+>>>>>>> 288bcff (add configuration)
             },
             {
               "$type": "Document",
@@ -399,21 +413,30 @@
               "Title": "ShoppingBag.html",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Html\\ShoppingBag.html",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Html\\ShoppingBag.html",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Html\\ShoppingBag.html",
               "RelativeToolTip": "MyWebApi\\wwwroot\\Html\\ShoppingBag.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+<<<<<<< HEAD
 =======
               "RelativeDocumentMoniker": "..\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Html\\ShoppingBag.html",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Html\\ShoppingBag.html",
               "RelativeToolTip": "..\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Html\\ShoppingBag.html",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-05-09T15:40:19.885Z"
             },
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 0,
               "Title": "Products.html",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Html\\Products.html",
@@ -432,6 +455,7 @@
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Scripts\\Products.js",
               "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Scripts\\Products.js",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Scripts\\Products.js",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 3,
               "Title": "Products.js",
@@ -439,6 +463,8 @@
               "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Scripts\\Products.js",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\wwwroot\\Scripts\\Products.js",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "MyWebApi\\wwwroot\\Scripts\\Products.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -447,6 +473,9 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Models\\User.cs",
@@ -476,6 +505,7 @@
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\CtegoryDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CtegoryDTO.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\CtegoryDTO.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 1,
               "Title": "User.cs",
@@ -509,6 +539,8 @@
               "RelativeDocumentMoniker": "DTO\\CtegoryDTO.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\CtegoryDTO.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "DTO\\CtegoryDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -517,11 +549,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 9,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\UserDTO.cs",
               "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\UserDTO.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 7,
               "Title": "UserDTO.cs",
@@ -529,6 +565,8 @@
               "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\UserDTO.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "DTO\\UserDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -537,11 +575,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 8,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\ProductDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ProductDTO.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\ProductDTO.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 6,
               "Title": "ProductDTO.cs",
@@ -549,6 +591,8 @@
               "RelativeDocumentMoniker": "DTO\\ProductDTO.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\ProductDTO.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "DTO\\ProductDTO.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -557,11 +601,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 7,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "MyWebApi\\Controllers\\CategoryController.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Controllers\\CategoryController.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 5,
               "Title": "CategoryController.cs",
@@ -569,6 +617,8 @@
               "RelativeDocumentMoniker": "MyWebApi\\Controllers\\CategoryController.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\Controllers\\CategoryController.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "MyWebApi\\Controllers\\CategoryController.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAABwAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -577,12 +627,16 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 4,
               "Title": "Home.js",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Home.js",
               "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Home.js",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Home.js",
               "RelativeToolTip": "MyWebApi\\wwwroot\\Home.js",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 42,
               "Title": "Home.js",
@@ -591,6 +645,8 @@
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Home.js",
               "RelativeToolTip": "..\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Home.js",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-05-09T15:28:09.15Z"
@@ -598,12 +654,16 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 3,
               "Title": "User.js",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\User.js",
               "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\User.js",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\User.js",
               "RelativeToolTip": "MyWebApi\\wwwroot\\User.js",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 43,
               "Title": "User.js",
@@ -612,6 +672,8 @@
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\User.js",
               "RelativeToolTip": "..\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\User.js",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-05-09T15:28:09.143Z"
@@ -619,11 +681,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 13,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Models\\Category.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 10,
               "Title": "Category.cs",
@@ -631,6 +697,8 @@
               "RelativeDocumentMoniker": "Models\\Category.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Models\\Category.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -639,11 +707,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 5,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "MyWebApi\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Controllers\\ProductController.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 4,
               "Title": "ProductController.cs",
@@ -651,6 +723,8 @@
               "RelativeDocumentMoniker": "MyWebApi\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\Controllers\\ProductController.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "MyWebApi\\Controllers\\ProductController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -659,11 +733,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 15,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Repository\\IUserRepository.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\IUserRepository.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 12,
               "Title": "IUserRepository.cs",
@@ -671,6 +749,8 @@
               "RelativeDocumentMoniker": "Repository\\IUserRepository.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\IUserRepository.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Repository\\IUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -679,11 +759,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 17,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\IUserService.cs",
               "RelativeDocumentMoniker": "Service\\IUserService.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\IUserService.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 14,
               "Title": "IUserService.cs",
@@ -691,6 +775,8 @@
               "RelativeDocumentMoniker": "Service\\IUserService.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\IUserService.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Service\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -699,11 +785,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 16,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\UserService.cs",
               "RelativeDocumentMoniker": "Service\\UserService.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\UserService.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 13,
               "Title": "UserService.cs",
@@ -711,6 +801,8 @@
               "RelativeDocumentMoniker": "Service\\UserService.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\UserService.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Service\\UserService.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwBgAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -719,11 +811,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 18,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\ProductRepository.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 15,
               "Title": "ProductRepository.cs",
@@ -731,6 +827,8 @@
               "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\ProductRepository.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Repository\\ProductRepository.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAwwB4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -739,11 +837,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 11,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "MyWebApi\\Controllers\\UserController.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Controllers\\UserController.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 9,
               "Title": "UserController.cs",
@@ -751,6 +853,8 @@
               "RelativeDocumentMoniker": "MyWebApi\\Controllers\\UserController.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\Controllers\\UserController.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "MyWebApi\\Controllers\\UserController.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAQwCIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -759,11 +863,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 14,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\UserRepository.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 11,
               "Title": "UserRepository.cs",
@@ -771,6 +879,8 @@
               "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\UserRepository.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Repository\\UserRepository.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -779,11 +889,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 19,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "MyWebApi\\Controllers\\OrderController.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Controllers\\OrderController.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 16,
               "Title": "OrderController.cs",
@@ -791,6 +905,8 @@
               "RelativeDocumentMoniker": "MyWebApi\\Controllers\\OrderController.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\Controllers\\OrderController.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "MyWebApi\\Controllers\\OrderController.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -799,11 +915,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 20,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Models\\Product.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 17,
               "Title": "Product.cs",
@@ -811,6 +931,8 @@
               "RelativeDocumentMoniker": "Models\\Product.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Models\\Product.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -819,11 +941,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 21,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\ProductService.cs",
               "RelativeDocumentMoniker": "Service\\ProductService.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\ProductService.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 18,
               "Title": "ProductService.cs",
@@ -831,6 +957,8 @@
               "RelativeDocumentMoniker": "Service\\ProductService.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\ProductService.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Service\\ProductService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAD4vxcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -839,11 +967,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 23,
               "Title": "OrderDTO.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\OrderDTO.cs",
               "RelativeDocumentMoniker": "DTO\\OrderDTO.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\OrderDTO.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 20,
               "Title": "OrderDTO.cs",
@@ -851,6 +983,8 @@
               "RelativeDocumentMoniker": "DTO\\OrderDTO.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\OrderDTO.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "DTO\\OrderDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -859,11 +993,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 22,
               "Title": "ShopDb325338135Context.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\ShopDb325338135Context.cs",
               "RelativeDocumentMoniker": "Repository\\ShopDb325338135Context.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\ShopDb325338135Context.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 19,
               "Title": "ShopDb325338135Context.cs",
@@ -871,6 +1009,8 @@
               "RelativeDocumentMoniker": "Repository\\ShopDb325338135Context.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\ShopDb325338135Context.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Repository\\ShopDb325338135Context.cs",
               "ViewState": "AQIAAGoAAAAAAAAAAAAWwHcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -879,11 +1019,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 24,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Repository\\CategoryRepository.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\CategoryRepository.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 21,
               "Title": "CategoryRepository.cs",
@@ -891,6 +1035,8 @@
               "RelativeDocumentMoniker": "Repository\\CategoryRepository.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\CategoryRepository.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Repository\\CategoryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -899,11 +1045,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 26,
               "Title": "IProductService.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\IProductService.cs",
               "RelativeDocumentMoniker": "Service\\IProductService.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\IProductService.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 23,
               "Title": "IProductService.cs",
@@ -911,6 +1061,8 @@
               "RelativeDocumentMoniker": "Service\\IProductService.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\IProductService.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Service\\IProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -919,11 +1071,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 25,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Repository\\IProductRepository.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\IProductRepository.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 22,
               "Title": "IProductRepository.cs",
@@ -931,6 +1087,8 @@
               "RelativeDocumentMoniker": "Repository\\IProductRepository.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\IProductRepository.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Repository\\IProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -939,11 +1097,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 33,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "Models\\OrderItem.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Models\\OrderItem.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 30,
               "Title": "OrderItem.cs",
@@ -951,6 +1113,8 @@
               "RelativeDocumentMoniker": "Models\\OrderItem.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Models\\OrderItem.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Models\\OrderItem.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -959,11 +1123,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 32,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Models\\Order.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 29,
               "Title": "Order.cs",
@@ -971,6 +1139,8 @@
               "RelativeDocumentMoniker": "Models\\Order.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Models\\Order.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Models\\Order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -979,11 +1149,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Program.cs",
               "RelativeDocumentMoniker": "MyWebApi\\Program.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Program.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 28,
               "Title": "Program.cs",
@@ -991,6 +1165,8 @@
               "RelativeDocumentMoniker": "MyWebApi\\Program.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\Program.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "MyWebApi\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -999,11 +1175,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 28,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\LoginDTO.cs",
               "RelativeDocumentMoniker": "DTO\\LoginDTO.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\LoginDTO.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 25,
               "Title": "LoginDTO.cs",
@@ -1011,6 +1191,8 @@
               "RelativeDocumentMoniker": "DTO\\LoginDTO.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\LoginDTO.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "DTO\\LoginDTO.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwAsAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1019,11 +1201,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 29,
               "Title": "RegisterDTO.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\RegisterDTO.cs",
               "RelativeDocumentMoniker": "DTO\\RegisterDTO.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\RegisterDTO.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 26,
               "Title": "RegisterDTO.cs",
@@ -1031,6 +1217,8 @@
               "RelativeDocumentMoniker": "DTO\\RegisterDTO.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\RegisterDTO.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "DTO\\RegisterDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1039,11 +1227,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 27,
               "Title": "ProductDescriptionDTO.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\ProductDescriptionDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ProductDescriptionDTO.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\ProductDescriptionDTO.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 24,
               "Title": "ProductDescriptionDTO.cs",
@@ -1051,6 +1243,8 @@
               "RelativeDocumentMoniker": "DTO\\ProductDescriptionDTO.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\ProductDescriptionDTO.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "DTO\\ProductDescriptionDTO.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1059,11 +1253,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 37,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\ICategoryService.cs",
               "RelativeDocumentMoniker": "Service\\ICategoryService.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\ICategoryService.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 34,
               "Title": "ICategoryService.cs",
@@ -1071,6 +1269,8 @@
               "RelativeDocumentMoniker": "Service\\ICategoryService.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\ICategoryService.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Service\\ICategoryService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1079,11 +1279,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\Program.cs",
               "RelativeDocumentMoniker": "DTO\\Program.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\Program.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 27,
               "Title": "Program.cs",
@@ -1091,6 +1295,8 @@
               "RelativeDocumentMoniker": "DTO\\Program.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\Program.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "DTO\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1099,11 +1305,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 34,
               "Title": "DTO.csproj",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\DTO.csproj",
               "RelativeDocumentMoniker": "DTO\\DTO.csproj",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\DTO.csproj",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 31,
               "Title": "DTO.csproj",
@@ -1111,6 +1321,8 @@
               "RelativeDocumentMoniker": "DTO\\DTO.csproj",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\DTO.csproj",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "DTO\\DTO.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -1119,11 +1331,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 35,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Repository\\OrderRepository.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\OrderRepository.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 32,
               "Title": "OrderRepository.cs",
@@ -1131,6 +1347,8 @@
               "RelativeDocumentMoniker": "Repository\\OrderRepository.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\OrderRepository.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Repository\\OrderRepository.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1139,11 +1357,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 36,
               "Title": "OrderService.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\OrderService.cs",
               "RelativeDocumentMoniker": "Service\\OrderService.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\OrderService.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 33,
               "Title": "OrderService.cs",
@@ -1151,6 +1373,8 @@
               "RelativeDocumentMoniker": "Service\\OrderService.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\OrderService.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Service\\OrderService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1159,11 +1383,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 38,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\IOrderService.cs",
               "RelativeDocumentMoniker": "Service\\IOrderService.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\IOrderService.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 35,
               "Title": "IOrderService.cs",
@@ -1171,6 +1399,8 @@
               "RelativeDocumentMoniker": "Service\\IOrderService.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\IOrderService.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Service\\IOrderService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1179,11 +1409,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 39,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "Repository\\IOrderRepository.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\IOrderRepository.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 36,
               "Title": "IOrderRepository.cs",
@@ -1191,6 +1425,8 @@
               "RelativeDocumentMoniker": "Repository\\IOrderRepository.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\IOrderRepository.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Repository\\IOrderRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1199,11 +1435,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 40,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "Repository\\ICategoryRepository.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\ICategoryRepository.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 37,
               "Title": "ICategoryRepository.cs",
@@ -1211,6 +1451,8 @@
               "RelativeDocumentMoniker": "Repository\\ICategoryRepository.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\ICategoryRepository.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Repository\\ICategoryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1219,11 +1461,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 41,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\CategoryService.cs",
               "RelativeDocumentMoniker": "Service\\CategoryService.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\CategoryService.cs",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 38,
               "Title": "CategoryService.cs",
@@ -1231,6 +1477,8 @@
               "RelativeDocumentMoniker": "Service\\CategoryService.cs",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\CategoryService.cs",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "Service\\CategoryService.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1239,11 +1487,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 42,
               "Title": "MyWebApi.csproj",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\MyWebApi.csproj",
               "RelativeDocumentMoniker": "MyWebApi\\MyWebApi.csproj",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\MyWebApi.csproj",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 39,
               "Title": "MyWebApi.csproj",
@@ -1251,6 +1503,8 @@
               "RelativeDocumentMoniker": "MyWebApi\\MyWebApi.csproj",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\MyWebApi.csproj",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "MyWebApi\\MyWebApi.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -1259,11 +1513,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 43,
               "Title": "User.html",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\User.html",
               "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\User.html",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\User.html",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 40,
               "Title": "User.html",
@@ -1271,6 +1529,8 @@
               "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\User.html",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\wwwroot\\User.html",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "MyWebApi\\wwwroot\\User.html",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -1279,11 +1539,15 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 288bcff (add configuration)
               "DocumentIndex": 44,
               "Title": "Home.html",
               "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Home.html",
               "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Home.html",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Home.html",
+<<<<<<< HEAD
 =======
               "DocumentIndex": 41,
               "Title": "Home.html",
@@ -1291,6 +1555,8 @@
               "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Home.html",
               "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\wwwroot\\Home.html",
 >>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
+=======
+>>>>>>> 288bcff (add configuration)
               "RelativeToolTip": "MyWebApi\\wwwroot\\Home.html",
               "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",

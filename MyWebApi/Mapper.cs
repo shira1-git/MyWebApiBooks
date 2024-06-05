@@ -17,6 +17,7 @@ namespace MyWebApi
                  opts => opts.MapFrom(src => src.OrderItems))
                 .ForMember(dest => dest.OrderDate, opts => opts.MapFrom(src => DateTime.UtcNow))
                 .ForMember(dest => dest.OrderSum, opts => opts.MapFrom(src => src.OrderItems.Sum(item => item.Quentity * item.price)));
+<<<<<<< HEAD
 
             CreateMap<Product, ProductDTO>().ForMember(dest => dest.Category,
                 opts => opts.MapFrom(src => src.Category.CategoryName));
@@ -36,4 +37,23 @@ namespace MyWebApi
         }
     }
 
+=======
+     
+            CreateMap<Product, ProductDTO>().ForMember(dest => dest.Category,
+                opts => opts.MapFrom(src => src.Category.CategoryName));
+
+            CreateMap<Category, CtegoryDTO>(); 
+
+            CreateMap<User, UserDTO>();
+
+            CreateMap<User, UserAfterLoginDTO>();
+
+            CreateMap<RegisterDTO, User>(); 
+            
+            CreateMap < Order, OrderAfterDTO > ();
+
+        }
+    }
+   
+>>>>>>> 288bcff (add configuration)
 }
