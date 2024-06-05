@@ -1,17 +1,45 @@
-
 let currentUser = {};
 let userId;
 
-const getDetails = (user) => {
-    console.log(user);
-    currentUser = user;
-    userId = user.id;
-    alert(userId);
+window.addEventListener("load", async function () {
+    console.log("startUser");
+    await getDetails()
+});
+
+const getDetails = async () => {
+    userId = await JSON.parse(sessionStorage.getItem("userID"))
+    currentUser = await getCurrentUser();
+    console.log(currentUser);
+    console.log("u", userId);
 };
+
+const getCurrentUser = async () => {
+    try {
+        const response = await fetch(`api/User/${userId}`);
+        const user = await response.json();
+        if (user) {
+            console.log(user);
+            return user; 
+        }
+    } catch {
+        alert("try again");
+    }
+}
 
 const showUpdateForm = () => {
     document.getElementById("update").style.display = "block";
+    showUserDetails();
 };
+
+const showUserDetails = async () => {
+    console.log("show", currentUser);
+    document.getElementById("UserName").value = await currentUser.userName.trim();
+    document.getElementById("LastName").value = await currentUser.lastName.trim();
+    document.getElementById("Password").value = await currentUser.password.trim();
+    document.getElementById("FirstName").value = await currentUser.firstName.trim();
+    document.getElementById("Email").value = await currentUser.email.trim();
+    await checkPasswordStrength(currentUser.password.trim())
+}
 
 const handleUpdate = async () => {
     const userId = sessionStorage.getItem("userID");

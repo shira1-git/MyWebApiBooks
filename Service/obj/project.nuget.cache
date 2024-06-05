@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2rO70LxfLjhmrF1O5QvGjr6KllhoJqay2FzoBXJpAycd5MPGnApcSjP5jLbS9F/wfGdIKLMtY9u2YNze2Eu0Jg==",
+  "dgSpecHash": "lpihIvrVnPYV6VehvklIc6v1MRUMBNzhzVfyduTcAHEqDF38pEHZOLN640zTbNb+UoOL3/vweMGfsj51xhPaaA==",
   "success": true,
-  "projectFilePath": "G:\\MyWebApiBooks\\Service\\Services.csproj",
+  "projectFilePath": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Service\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\326238102\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\326238102\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

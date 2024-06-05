@@ -5026,11 +5026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\MyWebApiBooks\\MyWebApi\\MyWebApi.csproj",
+      "projectUniqueName": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\MyWebApi.csproj",
       "projectName": "MyWebApi",
-      "projectPath": "G:\\MyWebApiBooks\\MyWebApi\\MyWebApi.csproj",
+      "projectPath": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\MyWebApi.csproj",
       "packagesPath": "C:\\Users\\326238102\\.nuget\\packages\\",
-      "outputPath": "G:\\MyWebApiBooks\\MyWebApi\\obj\\",
+      "outputPath": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5051,14 +5051,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "G:\\MyWebApiBooks\\DTO\\DTO.csproj": {
-              "projectPath": "G:\\MyWebApiBooks\\DTO\\DTO.csproj"
+            "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\DTO\\DTO.csproj": {
+              "projectPath": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\DTO\\DTO.csproj"
             },
-            "G:\\MyWebApiBooks\\Models\\Entities.csproj": {
-              "projectPath": "G:\\MyWebApiBooks\\Models\\Entities.csproj"
+            "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Models\\Entities.csproj": {
+              "projectPath": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Models\\Entities.csproj"
             },
-            "G:\\MyWebApiBooks\\Service\\Services.csproj": {
-              "projectPath": "G:\\MyWebApiBooks\\Service\\Services.csproj"
+            "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Service\\Services.csproj": {
+              "projectPath": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Service\\Services.csproj"
             }
           }
         }
