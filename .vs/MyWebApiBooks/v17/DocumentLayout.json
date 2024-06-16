@@ -1,7 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyWebApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\bin\\Debug\\net8.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyWebApi\\bin\\Debug\\net8.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyWebApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyWebApi\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyWebApi\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyWebApi\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\bin\\Debug\\net8.0\\System.Configuration.ConfigurationManager.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestProjectMyShop\\bin\\Debug\\net8.0\\System.Configuration.ConfigurationManager.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\bin\\Debug\\net8.0\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyWebApi\\bin\\Debug\\net8.0\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -24,8 +57,100 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\bin\\Debug\\net8.0\\appsettings.json",
+              "RelativeDocumentMoniker": "MyWebApi\\bin\\Debug\\net8.0\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\bin\\Debug\\net8.0\\appsettings.json",
+              "RelativeToolTip": "MyWebApi\\bin\\Debug\\net8.0\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T13:34:19.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MyWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\appsettings.json",
+              "RelativeToolTip": "MyWebApi\\appsettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T13:34:18.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "MyWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\Program.cs",
+              "RelativeToolTip": "MyWebApi\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:31:44.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\nlog.config",
+              "RelativeDocumentMoniker": "MyWebApi\\nlog.config",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\nlog.config",
+              "RelativeToolTip": "MyWebApi\\nlog.config",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-16T13:31:30.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "System.Configuration.ConfigurationManager.dll",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\bin\\Debug\\net8.0\\System.Configuration.ConfigurationManager.dll",
+              "RelativeDocumentMoniker": "TestProjectMyShop\\bin\\Debug\\net8.0\\System.Configuration.ConfigurationManager.dll",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\bin\\Debug\\net8.0\\System.Configuration.ConfigurationManager.dll",
+              "RelativeToolTip": "TestProjectMyShop\\bin\\Debug\\net8.0\\System.Configuration.ConfigurationManager.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-06-16T13:30:40.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\bin\\Debug\\net8.0\\nlog.config",
+              "RelativeDocumentMoniker": "MyWebApi\\bin\\Debug\\net8.0\\nlog.config",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\bin\\Debug\\net8.0\\nlog.config",
+              "RelativeToolTip": "MyWebApi\\bin\\Debug\\net8.0\\nlog.config",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-16T13:30:26.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyWebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyWebApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T13:15:08.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyWebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\appsettings.Development.json",
+              "RelativeToolTip": "MyWebApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T13:14:28.233Z"
             }
           ]
         }

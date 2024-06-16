@@ -1,369 +1,283 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-  "WorkspaceRootPath": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\mywebapi\\wwwroot\\html\\products.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\html\\products.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\mywebapi\\wwwroot\\scripts\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\scripts\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\mywebapi\\wwwroot\\html\\shoppingbag.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\html\\shoppingbag.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\mywebapi\\wwwroot\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\mywebapi\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\mywebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\mywebapi\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\mywebapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\dto\\ctegorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\ctegorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\mywebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\mywebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\repository\\shopdb325338135context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\shopdb325338135context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\dto\\productdescriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\productdescriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\dto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\mywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\dto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\models\\entities.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|solutionrelative:models\\entities.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\service\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\mywebapi\\mywebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\mywebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\mywebapi\\wwwroot\\user.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\user.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapiwithdto\\mywebapi\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-<<<<<<< HEAD
-=======
-  "WorkspaceRootPath": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\mywebapi\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Html\\ShoppingBag.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\mywebapi\\wwwroot\\scripts\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\scripts\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\mywebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\mywebapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\testprojectmyshop\\orderrepositoryunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|solutionrelative:testprojectmyshop\\orderrepositoryunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\testprojectmyshop\\categoryrepositoryintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|solutionrelative:testprojectmyshop\\categoryrepositoryintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\dto\\ctegorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\ctegorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\testprojectmyshop\\testprojectmyshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|solutionrelative:testprojectmyshop\\testprojectmyshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\mywebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\testprojectmyshop\\userreositoryintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|solutionrelative:testprojectmyshop\\userreositoryintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\testprojectmyshop\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|solutionrelative:testprojectmyshop\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\testprojectmyshop\\categoryrpositoryunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|solutionrelative:testprojectmyshop\\categoryrpositoryunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\mywebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\repository\\shopdb325338135context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\repository\\shopdb325338135context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\shopdb325338135context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\testprojectmyshop\\userrepositoryunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|solutionrelative:testprojectmyshop\\userrepositoryunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\testprojectmyshop\\productrepositoryunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|solutionrelative:testprojectmyshop\\productrepositoryunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\testprojectmyshop\\productrepositoryintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|solutionrelative:testprojectmyshop\\productrepositoryintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\testprojectmyshop\\databasefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|solutionrelative:testprojectmyshop\\databasefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\dto\\productdescriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\productdescriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\testprojectmyshop\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A49BBB-1C57-48E8-96F3-9D1F39E58EEB}|TestProjectMyShop\\TestProjectMyShop.csproj|solutionrelative:testprojectmyshop\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\wwwroot\\scripts\\shippingbage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\scripts\\shippingbage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\dto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\mywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\repository\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A9FEE9-0A21-4D23-9E8B-A1BBB3CC29E6}|Models\\Entities.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\service\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\mywebapi\\mywebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\mywebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\mywebapi\\wwwroot\\user.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\user.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|d:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webapi\\mywebapibooks\\mywebapi\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4386C39-2B7A-4D72-85A6-0F7634D83073}|Repository\\Repositories.csproj|solutionrelative:repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\routingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\routingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\User.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
+      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\service\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\wwwroot\\scripts\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\scripts\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\wwwroot\\scripts\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\scripts\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\wwwroot\\scripts\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\scripts\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\wwwroot\\user.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\user.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\wwwroot\\products.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\products.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\wwwroot\\style\\user.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\style\\user.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\wwwroot\\style\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\style\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\dto\\userwithiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\userwithiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\dto\\orderafterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\orderafterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\dto\\afterorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\afterorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\dto\\productdescriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\productdescriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5027E75B-965F-47E5-B357-F0F64AB136D8}|DTO\\DTO.csproj|solutionrelative:dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\wwwroot\\shoppingbag.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\shoppingbag.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\service\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC93BC22-C8BF-428B-ADA7-2F49093B7C92}|Service\\Services.csproj|solutionrelative:service\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\326238102\\AppData\\Local\\SourceServer\\96cb3643eb435c37a08af95a78c393e188b3a35238778d36cb4bae51967efca9\\MyWebApi\\Mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\wwwroot\\style\\products.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\style\\products.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|c:\\users\\user\\desktop\\\u05E1\u05D5\u05E4\u05D9\\mywebapibooks\\mywebapi\\wwwroot\\style\\shoppingbag.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5C260C7-77C0-4A3A-9CD0-87D633EF1451}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\wwwroot\\style\\shoppingbag.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\DTO\\UserWithIDDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\DTO\\OrderReturnDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\TestProjectMyShop\\DataBaseFixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\Rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\OrderItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\Entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -373,15 +287,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "SelectedChildIndex": 5,
-=======
-          "SelectedChildIndex": 7,
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
-          "SelectedChildIndex": 5,
->>>>>>> 288bcff (add configuration)
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -396,1171 +302,858 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-=======
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
->>>>>>> 288bcff (add configuration)
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryRepositoryIntegrationTest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\CategoryRepositoryIntegrationTest.cs",
+              "RelativeDocumentMoniker": "TestProjectMyShop\\CategoryRepositoryIntegrationTest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\CategoryRepositoryIntegrationTest.cs",
+              "RelativeToolTip": "TestProjectMyShop\\CategoryRepositoryIntegrationTest.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAxwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ShoppingBag.html",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Html\\ShoppingBag.html",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Html\\ShoppingBag.html",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Html\\ShoppingBag.html",
-              "RelativeToolTip": "MyWebApi\\wwwroot\\Html\\ShoppingBag.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-<<<<<<< HEAD
-=======
-              "RelativeDocumentMoniker": "..\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Html\\ShoppingBag.html",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Html\\ShoppingBag.html",
-              "RelativeToolTip": "..\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Html\\ShoppingBag.html",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-09T15:40:19.885Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 0,
-              "Title": "Products.html",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Html\\Products.html",
-              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Html\\Products.html",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Html\\Products.html",
-              "RelativeToolTip": "MyWebApi\\wwwroot\\Html\\Products.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-09T15:35:41.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Products.js",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Scripts\\Products.js",
-              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Scripts\\Products.js",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Scripts\\Products.js",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 3,
-              "Title": "Products.js",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\wwwroot\\Scripts\\Products.js",
-              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Scripts\\Products.js",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\wwwroot\\Scripts\\Products.js",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "MyWebApi\\wwwroot\\Scripts\\Products.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-09T15:36:53.404Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 12,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBMAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:07.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Mapper.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Mapper.cs",
-              "RelativeDocumentMoniker": "MyWebApi\\Mapper.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Mapper.cs",
-              "RelativeToolTip": "MyWebApi\\Mapper.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:07.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CtegoryDTO.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\CtegoryDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\CtegoryDTO.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\CtegoryDTO.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBMAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:07.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Mapper.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\Mapper.cs",
-              "RelativeDocumentMoniker": "MyWebApi\\Mapper.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\Mapper.cs",
-              "RelativeToolTip": "MyWebApi\\Mapper.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:07.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CtegoryDTO.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\CtegoryDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\CtegoryDTO.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\CtegoryDTO.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "DTO\\CtegoryDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:07.541Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 9,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\UserDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\UserDTO.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 7,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\UserDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\UserDTO.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "DTO\\UserDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:07.546Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 8,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\ProductDTO.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\ProductDTO.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 6,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\ProductDTO.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\ProductDTO.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "DTO\\ProductDTO.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:07.549Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 7,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "MyWebApi\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Controllers\\CategoryController.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 5,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "MyWebApi\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\Controllers\\CategoryController.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "MyWebApi\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABwAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:07.552Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 4,
-              "Title": "Home.js",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Home.js",
-              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Home.js",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Home.js",
-              "RelativeToolTip": "MyWebApi\\wwwroot\\Home.js",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 42,
-              "Title": "Home.js",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Home.js",
-              "RelativeDocumentMoniker": "..\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Home.js",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Home.js",
-              "RelativeToolTip": "..\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Home.js",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-09T15:28:09.15Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 3,
-              "Title": "User.js",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\User.js",
-              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\User.js",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\User.js",
-              "RelativeToolTip": "MyWebApi\\wwwroot\\User.js",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 43,
-              "Title": "User.js",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\User.js",
-              "RelativeDocumentMoniker": "..\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\User.js",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\User.js",
-              "RelativeToolTip": "..\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\User.js",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-09T15:28:09.143Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 13,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Models\\Category.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 10,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Models\\Category.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:07.5Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 5,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "MyWebApi\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Controllers\\ProductController.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "MyWebApi\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\Controllers\\ProductController.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "MyWebApi\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:08.101Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 15,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\IUserRepository.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\IUserRepository.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 12,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\IUserRepository.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\IUserRepository.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "Repository\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:07.495Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 17,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\IUserService.cs",
-              "RelativeDocumentMoniker": "Service\\IUserService.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\IUserService.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 14,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\IUserService.cs",
-              "RelativeDocumentMoniker": "Service\\IUserService.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\IUserService.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "Service\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:07.492Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 16,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\UserService.cs",
-              "RelativeDocumentMoniker": "Service\\UserService.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\UserService.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 13,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\UserService.cs",
-              "RelativeDocumentMoniker": "Service\\UserService.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\UserService.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "Service\\UserService.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBgAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:07.429Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 18,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\ProductRepository.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 15,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\ProductRepository.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "Repository\\ProductRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAwwB4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:07.555Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 11,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "MyWebApi\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Controllers\\UserController.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 9,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "MyWebApi\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\Controllers\\UserController.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "MyWebApi\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCIAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.06Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 14,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\UserRepository.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 11,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\UserRepository.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "Repository\\UserRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.064Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 19,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "MyWebApi\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Controllers\\OrderController.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 16,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "MyWebApi\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\Controllers\\OrderController.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "MyWebApi\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.066Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 20,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Models\\Product.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 17,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Models\\Product.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.068Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 21,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\ProductService.cs",
-              "RelativeDocumentMoniker": "Service\\ProductService.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\ProductService.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 18,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\ProductService.cs",
-              "RelativeDocumentMoniker": "Service\\ProductService.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\ProductService.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "Service\\ProductService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAD4vxcAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.07Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 23,
-              "Title": "OrderDTO.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\OrderDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\OrderDTO.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\OrderDTO.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 20,
-              "Title": "OrderDTO.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\OrderDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\OrderDTO.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\OrderDTO.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "DTO\\OrderDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.072Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 22,
-              "Title": "ShopDb325338135Context.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\ShopDb325338135Context.cs",
-              "RelativeDocumentMoniker": "Repository\\ShopDb325338135Context.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\ShopDb325338135Context.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 19,
-              "Title": "ShopDb325338135Context.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\ShopDb325338135Context.cs",
-              "RelativeDocumentMoniker": "Repository\\ShopDb325338135Context.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\ShopDb325338135Context.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "Repository\\ShopDb325338135Context.cs",
-              "ViewState": "AQIAAGoAAAAAAAAAAAAWwHcAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.074Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 24,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\CategoryRepository.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\CategoryRepository.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 21,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\CategoryRepository.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\CategoryRepository.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "Repository\\CategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.076Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 26,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\IProductService.cs",
-              "RelativeDocumentMoniker": "Service\\IProductService.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\IProductService.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 23,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\IProductService.cs",
-              "RelativeDocumentMoniker": "Service\\IProductService.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\IProductService.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "Service\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.08Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 25,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\IProductRepository.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\IProductRepository.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 22,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\IProductRepository.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\IProductRepository.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "Repository\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.084Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 33,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Models\\OrderItem.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 30,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Models\\OrderItem.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "Models\\OrderItem.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.087Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 32,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Models\\Order.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Models\\Order.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 29,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Models\\Order.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Models\\Order.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "Models\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.089Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 31,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\Program.cs",
               "RelativeDocumentMoniker": "MyWebApi\\Program.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\Program.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 28,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "MyWebApi\\Program.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\Program.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\Program.cs",
               "RelativeToolTip": "MyWebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABIAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.091Z"
+              "WhenOpened": "2024-06-16T13:49:24.145Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 28,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\LoginDTO.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\LoginDTO.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 25,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\LoginDTO.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\LoginDTO.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "DTO\\LoginDTO.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAsAAAA1AAAA",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MyWebApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MyWebApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwCoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.094Z"
+              "WhenOpened": "2024-06-16T13:49:24.08Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 29,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\RegisterDTO.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\RegisterDTO.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 26,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\RegisterDTO.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\RegisterDTO.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "DTO\\RegisterDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.097Z"
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MyWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\appsettings.json",
+              "RelativeToolTip": "MyWebApi\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T15:55:36.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 27,
-              "Title": "ProductDescriptionDTO.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\ProductDescriptionDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\ProductDescriptionDTO.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\ProductDescriptionDTO.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 24,
-              "Title": "ProductDescriptionDTO.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\ProductDescriptionDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\ProductDescriptionDTO.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\ProductDescriptionDTO.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "DTO\\ProductDescriptionDTO.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "DocumentIndex": 11,
+              "Title": "UserReositoryIntegrationTest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\UserReositoryIntegrationTest.cs",
+              "RelativeDocumentMoniker": "TestProjectMyShop\\UserReositoryIntegrationTest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\UserReositoryIntegrationTest.cs",
+              "RelativeToolTip": "TestProjectMyShop\\UserReositoryIntegrationTest.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwB4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.1Z"
+              "WhenOpened": "2024-06-16T13:49:23.641Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 37,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "Service\\ICategoryService.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\ICategoryService.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 34,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "Service\\ICategoryService.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\ICategoryService.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "Service\\ICategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.102Z"
+              "DocumentIndex": 5,
+              "Title": "Entities",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Models\\Entities.csproj",
+              "RelativeDocumentMoniker": "Models\\Entities.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Models\\Entities.csproj",
+              "RelativeToolTip": "Models\\Entities.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T14:12:30.347Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 30,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\Program.cs",
               "RelativeDocumentMoniker": "DTO\\Program.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\Program.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 27,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\Program.cs",
-              "RelativeDocumentMoniker": "DTO\\Program.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\Program.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\Program.cs",
               "RelativeToolTip": "DTO\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.105Z"
+              "WhenOpened": "2024-06-16T13:49:24.154Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 34,
-              "Title": "DTO.csproj",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\DTO.csproj",
-              "RelativeDocumentMoniker": "DTO\\DTO.csproj",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\DTO\\DTO.csproj",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 31,
-              "Title": "DTO.csproj",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\DTO.csproj",
-              "RelativeDocumentMoniker": "DTO\\DTO.csproj",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\DTO\\DTO.csproj",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "DTO\\DTO.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 10,
+              "Title": "TestProjectMyShop.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\TestProjectMyShop.csproj",
+              "RelativeDocumentMoniker": "TestProjectMyShop\\TestProjectMyShop.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\TestProjectMyShop.csproj",
+              "RelativeToolTip": "TestProjectMyShop\\TestProjectMyShop.csproj",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-09T17:00:17.406Z"
+              "WhenOpened": "2024-06-16T13:49:23.837Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 35,
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyWebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\appsettings.Development.json",
+              "RelativeToolTip": "MyWebApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T15:56:09.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderRepositoryUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\OrderRepositoryUnitTest.cs",
+              "RelativeDocumentMoniker": "TestProjectMyShop\\OrderRepositoryUnitTest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\OrderRepositoryUnitTest.cs",
+              "RelativeToolTip": "TestProjectMyShop\\OrderRepositoryUnitTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\Mapper.cs",
+              "RelativeDocumentMoniker": "MyWebApi\\Mapper.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\Mapper.cs",
+              "RelativeToolTip": "MyWebApi\\Mapper.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MyWebApi\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MyWebApi\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Category.cs",
+              "DocumentMoniker": "M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\Category.cs",
+              "ToolTip": "M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProjectMyShop\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\UnitTest1.cs",
+              "RelativeToolTip": "TestProjectMyShop\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryRpositoryUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\CategoryRpositoryUnitTest.cs",
+              "RelativeDocumentMoniker": "TestProjectMyShop\\CategoryRpositoryUnitTest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\CategoryRpositoryUnitTest.cs",
+              "RelativeToolTip": "TestProjectMyShop\\CategoryRpositoryUnitTest.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowCcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShopDb325338135Context.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Repository\\ShopDb325338135Context.cs",
+              "RelativeDocumentMoniker": "Repository\\ShopDb325338135Context.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Repository\\ShopDb325338135Context.cs",
+              "RelativeToolTip": "Repository\\ShopDb325338135Context.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepositoryUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\UserRepositoryUnitTest.cs",
+              "RelativeDocumentMoniker": "TestProjectMyShop\\UserRepositoryUnitTest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\UserRepositoryUnitTest.cs",
+              "RelativeToolTip": "TestProjectMyShop\\UserRepositoryUnitTest.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAiwFgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ShippingBage.js",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\Scripts\\ShippingBage.js",
+              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Scripts\\ShippingBage.js",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\Scripts\\ShippingBage.js",
+              "RelativeToolTip": "MyWebApi\\wwwroot\\Scripts\\ShippingBage.js",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAQwIUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-16T13:49:24.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductRepositoryUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\ProductRepositoryUnitTest.cs",
+              "RelativeDocumentMoniker": "TestProjectMyShop\\ProductRepositoryUnitTest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\ProductRepositoryUnitTest.cs",
+              "RelativeToolTip": "TestProjectMyShop\\ProductRepositoryUnitTest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Order.cs",
+              "DocumentMoniker": "M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\Order.cs",
+              "ToolTip": "M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MyWebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MyWebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB4AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MyWebApi\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MyWebApi\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAnwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductRepositoryIntegrationTest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\ProductRepositoryIntegrationTest.cs",
+              "RelativeDocumentMoniker": "TestProjectMyShop\\ProductRepositoryIntegrationTest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\ProductRepositoryIntegrationTest.cs",
+              "RelativeToolTip": "TestProjectMyShop\\ProductRepositoryIntegrationTest.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "TestProjectMyShop\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\GlobalUsings.cs",
+              "RelativeToolTip": "TestProjectMyShop\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataBaseFixture.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\DataBaseFixture.cs",
+              "RelativeDocumentMoniker": "TestProjectMyShop\\DataBaseFixture.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\TestProjectMyShop\\DataBaseFixture.cs",
+              "RelativeToolTip": "TestProjectMyShop\\DataBaseFixture.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\Rating.cs",
+              "ToolTip": "M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "User.cs",
+              "DocumentMoniker": "M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\User.cs",
+              "ToolTip": "M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Repository\\RatingRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\RatingRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Repository\\RatingRepository.cs",
+              "RelativeToolTip": "Repository\\RatingRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Product.cs",
+              "DocumentMoniker": "M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\Product.cs",
+              "ToolTip": "M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\Product.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\OrderItem.cs",
+              "ToolTip": "M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "OrderRepository.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Repository\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Repository\\OrderRepository.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\OrderRepository.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 32,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\OrderRepository.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\OrderRepository.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Repository\\OrderRepository.cs",
               "RelativeToolTip": "Repository\\OrderRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.114Z"
+              "WhenOpened": "2024-06-16T13:49:24.114Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 36,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\OrderService.cs",
-              "RelativeDocumentMoniker": "Service\\OrderService.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\OrderService.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 33,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\OrderService.cs",
-              "RelativeDocumentMoniker": "Service\\OrderService.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\OrderService.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "Service\\OrderService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.117Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 38,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\IOrderService.cs",
-              "RelativeDocumentMoniker": "Service\\IOrderService.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\IOrderService.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 35,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\IOrderService.cs",
-              "RelativeDocumentMoniker": "Service\\IOrderService.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\IOrderService.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "Service\\IOrderService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.12Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 39,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\IOrderRepository.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\IOrderRepository.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 36,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\IOrderRepository.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\IOrderRepository.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "Repository\\IOrderRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.125Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 40,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\ICategoryRepository.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Repository\\ICategoryRepository.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 37,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\ICategoryRepository.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Repository\\ICategoryRepository.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "Repository\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.13Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 41,
+              "DocumentIndex": 26,
               "Title": "CategoryService.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Service\\CategoryService.cs",
               "RelativeDocumentMoniker": "Service\\CategoryService.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\Service\\CategoryService.cs",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 38,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Service\\CategoryService.cs",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\Service\\CategoryService.cs",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Service\\CategoryService.cs",
               "RelativeToolTip": "Service\\CategoryService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBgAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:28:09.133Z"
+              "WhenOpened": "2024-06-16T13:49:24.119Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 42,
-              "Title": "MyWebApi.csproj",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\MyWebApi.csproj",
-              "RelativeDocumentMoniker": "MyWebApi\\MyWebApi.csproj",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\MyWebApi.csproj",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 39,
-              "Title": "MyWebApi.csproj",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\MyWebApi.csproj",
-              "RelativeDocumentMoniker": "MyWebApi\\MyWebApi.csproj",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\MyWebApi.csproj",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "MyWebApi\\MyWebApi.csproj",
+              "DocumentIndex": 29,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAIAwwDYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Service\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Service\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Service\\ICategoryService.cs",
+              "RelativeToolTip": "Service\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "DTO\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Home.html",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\Home.html",
+              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Home.html",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\Home.html",
+              "RelativeToolTip": "MyWebApi\\wwwroot\\Home.html",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-16T13:49:24.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RoutingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\RoutingMiddleware.cs",
+              "RelativeDocumentMoniker": "MyWebApi\\RoutingMiddleware.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\RoutingMiddleware.cs",
+              "RelativeToolTip": "MyWebApi\\RoutingMiddleware.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Service\\ProductService.cs",
+              "RelativeToolTip": "Service\\ProductService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Service\\UserService.cs",
+              "RelativeToolTip": "Service\\UserService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwCYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RatingService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Service\\RatingService.cs",
+              "RelativeDocumentMoniker": "Service\\RatingService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Service\\RatingService.cs",
+              "RelativeToolTip": "Service\\RatingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Service\\OrderService.cs",
+              "RelativeDocumentMoniker": "Service\\OrderService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Service\\OrderService.cs",
+              "RelativeToolTip": "Service\\OrderService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwC0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Entities.csproj",
+              "DocumentMoniker": "M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\Entities.csproj",
+              "ToolTip": "M:\\WepApi\\PROJECT\\\u05DC\u05D4\u05D2\u05E9\u05D4\\.NetCore-Project\\Models\\Entities.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-09T17:00:17.776Z"
+              "WhenOpened": "2024-06-16T13:49:24.18Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 43,
-              "Title": "User.html",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\User.html",
-              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\User.html",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\User.html",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 40,
-              "Title": "User.html",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\wwwroot\\User.html",
-              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\User.html",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\wwwroot\\User.html",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "MyWebApi\\wwwroot\\User.html",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-09T15:28:09.138Z"
+              "DocumentIndex": 38,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Service\\IUserService.cs",
+              "RelativeToolTip": "Service\\IUserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAWwBEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.184Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 288bcff (add configuration)
-              "DocumentIndex": 44,
-              "Title": "Home.html",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Home.html",
-              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Home.html",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiWithDTO\\MyWebApi\\wwwroot\\Home.html",
-<<<<<<< HEAD
-=======
               "DocumentIndex": 41,
-              "Title": "Home.html",
-              "DocumentMoniker": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\wwwroot\\Home.html",
-              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Home.html",
-              "ToolTip": "D:\\\u05D7\u05D5\u05DE\u05E8 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\webApi\\MyWebApiBooks\\MyWebApi\\wwwroot\\Home.html",
->>>>>>> a3847faecf94dcd15fa9e2a2541b09d81fefac35
-=======
->>>>>>> 288bcff (add configuration)
-              "RelativeToolTip": "MyWebApi\\wwwroot\\Home.html",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Title": "Home.js",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\Scripts\\Home.js",
+              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Scripts\\Home.js",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\Scripts\\Home.js",
+              "RelativeToolTip": "MyWebApi\\wwwroot\\Scripts\\Home.js",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-16T13:49:24.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "User.html",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\User.html",
+              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\User.html",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\User.html",
+              "RelativeToolTip": "MyWebApi\\wwwroot\\User.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-09T15:28:09.146Z"
+              "WhenOpened": "2024-06-16T13:49:24.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Products.html",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\Products.html",
+              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Products.html",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\Products.html",
+              "RelativeToolTip": "MyWebApi\\wwwroot\\Products.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-16T13:49:24.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "User.js",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\Scripts\\User.js",
+              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Scripts\\User.js",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\Scripts\\User.js",
+              "RelativeToolTip": "MyWebApi\\wwwroot\\Scripts\\User.js",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-16T13:49:24.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Products.js",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\Scripts\\Products.js",
+              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Scripts\\Products.js",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\Scripts\\Products.js",
+              "RelativeToolTip": "MyWebApi\\wwwroot\\Scripts\\Products.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-16T13:49:24.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OrderAfterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\OrderAfterDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderAfterDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\OrderAfterDTO.cs",
+              "RelativeToolTip": "DTO\\OrderAfterDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "DTO\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\Style\\Home.css",
+              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Style\\Home.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\Style\\Home.css",
+              "RelativeToolTip": "MyWebApi\\wwwroot\\Style\\Home.css",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-16T13:49:24.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "User.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\Style\\User.css",
+              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Style\\User.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\Style\\User.css",
+              "RelativeToolTip": "MyWebApi\\wwwroot\\Style\\User.css",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-16T13:49:24.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserWithIDDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\UserWithIDDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserWithIDDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\UserWithIDDTO.cs",
+              "RelativeToolTip": "DTO\\UserWithIDDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DTO.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\DTO.csproj",
+              "RelativeDocumentMoniker": "DTO\\DTO.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\DTO.csproj",
+              "RelativeToolTip": "DTO\\DTO.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T13:49:24.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AfterOrderItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\AfterOrderItemDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\AfterOrderItemDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\AfterOrderItemDTO.cs",
+              "RelativeToolTip": "DTO\\AfterOrderItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProductDescriptionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\ProductDescriptionDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductDescriptionDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\ProductDescriptionDTO.cs",
+              "RelativeToolTip": "DTO\\ProductDescriptionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UserWithIDDTO.cs",
+              "DocumentMoniker": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\DTO\\UserWithIDDTO.cs",
+              "ToolTip": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\DTO\\UserWithIDDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:55:52.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "DTO\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "OrderReturnDTO.cs",
+              "DocumentMoniker": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\DTO\\OrderReturnDTO.cs",
+              "ToolTip": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\DTO\\OrderReturnDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:55:52.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DataBaseFixture.cs",
+              "DocumentMoniker": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\TestProjectMyShop\\DataBaseFixture.cs",
+              "ToolTip": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\TestProjectMyShop\\DataBaseFixture.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:55:52.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyWebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyWebApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T13:49:24.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "MyWebApi\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "MyWebApi\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:49:24.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ShoppingBag.html",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\ShoppingBag.html",
+              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\ShoppingBag.html",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\ShoppingBag.html",
+              "RelativeToolTip": "MyWebApi\\wwwroot\\ShoppingBag.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-16T13:49:24.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Service\\Services.csproj",
+              "RelativeDocumentMoniker": "Service\\Services.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\Service\\Services.csproj",
+              "RelativeToolTip": "Service\\Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T13:49:24.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\326238102\\AppData\\Local\\SourceServer\\96cb3643eb435c37a08af95a78c393e188b3a35238778d36cb4bae51967efca9\\MyWebApi\\Mapper.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\326238102\\AppData\\Local\\SourceServer\\96cb3643eb435c37a08af95a78c393e188b3a35238778d36cb4bae51967efca9\\MyWebApi\\Mapper.cs",
+              "ToolTip": "C:\\Users\\326238102\\AppData\\Local\\SourceServer\\96cb3643eb435c37a08af95a78c393e188b3a35238778d36cb4bae51967efca9\\MyWebApi\\Mapper.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\326238102\\AppData\\Local\\SourceServer\\96cb3643eb435c37a08af95a78c393e188b3a35238778d36cb4bae51967efca9\\MyWebApi\\Mapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:57:10.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Products.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\Style\\Products.css",
+              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Style\\Products.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\Style\\Products.css",
+              "RelativeToolTip": "MyWebApi\\wwwroot\\Style\\Products.css",
+              "ViewState": "AQIAAEsAAAAAAAAAAADwv1oAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-16T13:49:24.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ShoppingBag.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\Style\\ShoppingBag.css",
+              "RelativeDocumentMoniker": "MyWebApi\\wwwroot\\Style\\ShoppingBag.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E1\u05D5\u05E4\u05D9\\MyWebApiBooks\\MyWebApi\\wwwroot\\Style\\ShoppingBag.css",
+              "RelativeToolTip": "MyWebApi\\wwwroot\\Style\\ShoppingBag.css",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-16T13:49:24.318Z"
             }
           ]
         }

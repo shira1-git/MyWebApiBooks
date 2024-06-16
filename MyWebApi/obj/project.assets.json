@@ -5020,45 +5020,49 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\326238102\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\MyWebApi.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\סופי\\MyWebApiBooks\\MyWebApi\\MyWebApi.csproj",
       "projectName": "MyWebApi",
-      "projectPath": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\MyWebApi.csproj",
-      "packagesPath": "C:\\Users\\326238102\\.nuget\\packages\\",
-      "outputPath": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\סופי\\MyWebApiBooks\\MyWebApi\\MyWebApi.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\סופי\\MyWebApiBooks\\MyWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\326238102\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\DTO\\DTO.csproj": {
-              "projectPath": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\DTO\\DTO.csproj"
+            "C:\\Users\\User\\Desktop\\סופי\\MyWebApiBooks\\DTO\\DTO.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\סופי\\MyWebApiBooks\\DTO\\DTO.csproj"
             },
-            "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Models\\Entities.csproj": {
-              "projectPath": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Models\\Entities.csproj"
+            "C:\\Users\\User\\Desktop\\סופי\\MyWebApiBooks\\Models\\Entities.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\סופי\\MyWebApiBooks\\Models\\Entities.csproj"
             },
-            "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Service\\Services.csproj": {
-              "projectPath": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Service\\Services.csproj"
+            "C:\\Users\\User\\Desktop\\סופי\\MyWebApiBooks\\Service\\Services.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\סופי\\MyWebApiBooks\\Service\\Services.csproj"
             }
           }
         }
@@ -5067,6 +5071,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -5119,7 +5128,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

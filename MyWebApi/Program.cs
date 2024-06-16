@@ -18,7 +18,7 @@ builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<IRatingRepository, RatingRepository>();
 builder.Services.AddScoped<IRatingService, RatingService>();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
-builder.Services.AddDbContext<ShopDb325338135Context>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("School")));
+builder.Services.AddDbContext<ShopDb325338135Context>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("Home")));
 builder.Host.UseNLog();
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();

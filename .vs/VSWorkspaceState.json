@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Model",
-    "\\Models",
-    "\\MyWebApi",
-    "\\MyWebApi\\wwwroot"
+    "\\Entities",
+    "\\MyWebApi"
   ],
-  "SelectedNode": "\\Models",
+  "SelectedNode": "\\MyWebApi\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
