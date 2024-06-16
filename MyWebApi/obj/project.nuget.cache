@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sShUx1BioEu1+t4R8miLcmKuDNYKrgyNhA4JLqXJRLFSNDsAprs+8eR78jhTE+eYkbsmz+uEfSdBzFm0EWBu7A==",
+  "dgSpecHash": "tEvhc//HoqwAX6Zoc94jToba08aWSRLhV4Y6F7CRqIgC3vj7Ets1HCcayHMGZLpf7N1YlkYDeLdxRpzlknD7TA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\סופי\\MyWebApiBooks\\MyWebApi\\MyWebApi.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\בעזה\\MyWebApiBooks\\MyWebApi\\MyWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
